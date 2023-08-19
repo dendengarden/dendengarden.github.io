@@ -1,0 +1,3 @@
+<div class="post-video" style="aspect-ratio: {{include.aspect-ratio}}" >
+    <iframe width="100%" height="100%" src="{{ include.url || split: "=" || last | prepend: "https://www.youtube-nocookie.com/embed/" }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>

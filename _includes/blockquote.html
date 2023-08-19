@@ -1,0 +1,8 @@
+<div class="post-blockquote">
+  “{{ include.quote}}”<br />
+  {% if include.src %}
+    <sub><a href="{{ include.src }}">— {{ include.attr }}</a></sub>
+  {% else %}
+    <sub>— {{ include.attr }}</sub>
+  {% endif %}
+</div>

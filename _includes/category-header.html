@@ -1,0 +1,6 @@
+{% assign category-slug = page.categories | first | downcase | replace: " ", "-" %}
+<div class="post-category-header">
+  <div class="wrapper wrapper-background">
+    <h2><span class="post-category-header-icon {{category-slug}}"></span> {{ page.categories }}</h2>
+  </div>
+</div>
