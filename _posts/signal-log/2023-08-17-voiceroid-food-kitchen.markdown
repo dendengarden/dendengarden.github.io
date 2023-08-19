@@ -2,7 +2,7 @@
 layout: post
 title:  "VOICEROID food kitchen"
 date:   2023-08-14 00:00:00 -0400
-categories: [signal-log]
+category: signal-log
 ---
 
 {% include nnd.html url="https://www.nicovideo.jp/watch/sm42555181" %}
