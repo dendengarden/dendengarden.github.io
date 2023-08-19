@@ -16,7 +16,7 @@ layout: default
     {% assign category-description = site.data.taxonomy[category-slug].description %}
     <div class="category">
       <div class="category-header">
-        <span class="category-icon {{category-slug}}"></span><div class="category-title"><a>{{ category-title }}</a></div><input class="category-info-check" type="checkbox" id="{{category-slug}}-info-check"><label class="category-info-icon" for="{{category-slug}}-info-check"><div class="info-icon">🛈</div></label>
+        <span class="category-icon {{category-slug}}"></span><div class="category-title"><a href="{{category-slug | relative_url }}">{{ category-title }}</a></div><input class="category-info-check" type="checkbox" id="{{category-slug}}-info-check"><label class="category-info-icon" for="{{category-slug}}-info-check"><div class="info-icon">🛈</div></label>
         <div class="category-info">
           {{category-description}}
         </div>

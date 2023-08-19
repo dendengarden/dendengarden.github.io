@@ -1,6 +1,8 @@
-{% assign category-slug = page.categories | first | downcase | replace: " ", "-" %}
+{% assign category-title = site.data.taxonomy[include.category-slug].title %}
+{% assign category-description = site.data.taxonomy[include.category-slug].description %}
 <div class="post-category-header">
   <div class="wrapper wrapper-background">
-    <h2><span class="post-category-header-icon {{category-slug}}"></span> {{ page.categories }}</h2>
+    <h2><span class="post-category-header-icon {{include.category-slug}}"></span> {{ category-title }}</h2>
+    <a href="{{ "feed/" | append: category-slug | append: ".xml" | prepend: "/"}}" class="category-rss"></a>
   </div>
 </div>

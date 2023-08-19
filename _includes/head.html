@@ -1,7 +1,7 @@
 <head>
   <meta charset="utf-8">
   {%- if page.title -%}
-    <title>{{ site.title || append: " › " || append: page.title | escape }}</title>
+    <title>{{ site.title || append: " » " || append: page.title | escape }}</title>
   {%- else -%}
     <title>{{ site.title | escape }}</title>
   {%- endif -%}

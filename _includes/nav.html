@@ -5,7 +5,7 @@
     {% assign category-slug = category | first | downcase | replace: " ", "-" %}
     {% assign category-title = site.data.taxonomy[category-slug].title %}
     {% assign category-description = site.data.taxonomy[category-slug].description %}
-    <a href="/"><span><div class="category-icon {{category-slug}}"></div> {{category-title}}</span></a>
+    <a href="{{category-slug | relative_url }}"><span><div class="category-icon {{category-slug}}"></div> {{category-title}}</span></a>
     {%- endfor -%}
   </div>
 </div>

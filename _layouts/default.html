@@ -6,8 +6,12 @@
   <body>
     {%- include header.html -%}
 
-    {%- if page.is_post -%}
+    {%- if page.layout != "home" -%}
       {%- include nav.html -%}
+    {% endif %}
+
+    {%- if page.layout == "category" -%}
+      {%- include category-header.html category-slug=page.category -%}
     {% endif %}
 
     <main class="site-content" aria-label="Content">

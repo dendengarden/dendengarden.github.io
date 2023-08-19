@@ -64,10 +64,10 @@
 }
 
 .post-category-header .wrapper {
-  background: $brand-accent-color;
   line-height: 48px;
   text-align: center;
   padding: $spacing-unit / 2;
+  border-bottom: 1px solid $grey-color;
 }
 
 .post-category-header-icon {
@@ -82,6 +82,7 @@
   padding: 0;
   display: grid;
   grid-template-columns: auto auto auto;
+  border-bottom: 1px solid $grey-color;
 }
 
 .nav-header a {
@@ -201,7 +202,15 @@ input[type="checkbox"] + label {
   margin-right: $spacing-unit / 4;
 }
 
+.category-page-info {
+  text-align: center;
+  font-style: italic;
+}
+
 .category-rss {
+  position: absolute;
+  top: 0;
+  right: 0;
   height: 32px;
   width: 32px;
   background-size: 24px 24px;
