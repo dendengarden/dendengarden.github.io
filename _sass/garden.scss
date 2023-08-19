@@ -1,13 +1,9 @@
 @charset "utf-8";
 
-// Define defaults for each variable.
-
 @font-face {
   font-family: REM;
   src: url("/assets/font/REM-VariableFont_wght.ttf");
 }
-
-
 
 $base-font-family: REM !default;
 $base-font-size:   16px !default;
