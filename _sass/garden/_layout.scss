@@ -36,7 +36,7 @@
   text-shadow: 5px 1px rgba(0, 0, 0, 0.3);
   position: relative;
   z-index: 2;
-
+  white-space: nowrap;
   font-weight: bold;  
   color: $brand-color;
   -webkit-text-stroke: 2px white;
@@ -83,6 +83,22 @@
   display: grid;
   grid-template-columns: auto auto auto;
   border-bottom: 1px solid $grey-color;
+}
+
+@media screen and (max-width: 800px) {
+  .site-header {
+    margin-top: 0;
+  }
+  .site-title {
+    font-size: 9vw;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .nav-header .wrapper {
+    grid-template-rows: auto auto auto;
+    grid-template-columns: auto;
+  }
 }
 
 .nav-header a {
