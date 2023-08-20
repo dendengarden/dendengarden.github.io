@@ -3,6 +3,6 @@
 <div class="post-category-header">
   <div class="wrapper wrapper-background">
     <h2><span class="post-category-header-icon {{include.category-slug}}"></span> {{ category-title }}</h2>
-    <a href="{{ "feed/" | append: category-slug | append: ".xml" | prepend: "/"}}" class="category-rss"></a>
+    <a href="{{ "feed/" | append: include.category-slug | append: ".xml" | prepend: "/"}}" class="category-rss"></a>
   </div>
 </div>
