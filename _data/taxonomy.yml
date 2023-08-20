@@ -1,9 +1,6 @@
 broadcast:
   title: "Broadcast"
-  description: "Regular transmissions. Longform posts exploring a topic in depth or at great length. "
+  description: "regular transmissions and longform programming exploring a topic in depth"
 signal-log:
   title: "Signal Log"
-  description: "Ambient signals. Bite-sized curiosities, interesting discoveries, and anything else I might feel like writing about."
-bird-bath:
-  title: "Bird Bath"
-  description: "Small projects and other things fun to stare at. Moodboards, interactive widgets, utilities, and maybe more!"
+  description: "ambient signals, small curiosities, and other interesting discoveries made wading through static"

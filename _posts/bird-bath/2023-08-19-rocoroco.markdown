@@ -1,6 +1,0 @@
----
-title:  "ロコロコ"
-date:   2023-08-19 00:00:00 -0400
-category: bird-bath
-link: "https://rocoro.co"
----

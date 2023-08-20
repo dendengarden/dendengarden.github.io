@@ -81,7 +81,7 @@
 .nav-header .wrapper {
   padding: 0;
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: auto auto;
   border-bottom: 1px solid $grey-color;
 }
 
@@ -91,13 +91,6 @@
   }
   .site-title {
     font-size: 9vw;
-  }
-}
-
-@media screen and (max-width: 500px) {
-  .nav-header .wrapper {
-    grid-template-rows: auto auto auto;
-    grid-template-columns: auto;
   }
 }
 
