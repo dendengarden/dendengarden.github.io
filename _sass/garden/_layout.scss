@@ -103,9 +103,9 @@
   display: inline-block
 }
 
-.broadcast { background-image: url("/assets/img/broadcast.svg"); }
-.signal-log { background-image: url("/assets/img/signals.svg") }
-.bird-bath { background-image: url("/assets/img/bird-bath.svg") }
+.broadcast { background-image: url("/assets/img/icons/broadcast.svg"); }
+.signal-log { background-image: url("/assets/img/icons/signal-log.svg") }
+.bird-bath { background-image: url("/assets/img/icons/bird-bath.svg") }
 
 /* Pages */
 .site-content .wrapper {
@@ -117,7 +117,7 @@
 .site-icon {
   width: 19px;
   height: 23px;
-  background: url("/assets/img/sprout.png") center center no-repeat;
+  background: url("/assets/img/icons/favicon.png") center center no-repeat;
   background-size: contain;
   margin: 0 auto $spacing-unit / 2;
   image-rendering: pixelated;
@@ -239,7 +239,7 @@
   background-size: 24px 24px;
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url("/assets/img/rss.svg");
+  background-image: url("/assets/img/icons/rss.svg");
   display: inline-block;
 }
 
@@ -307,7 +307,7 @@
   display: inline-block;
   background-size: 20px 20px;
   vertical-align: middle;
-  background-image: url("/assets/img/permalink.svg");
+  background-image: url("/assets/img/icons/permalink.svg");
 }
 
 .post-content {
