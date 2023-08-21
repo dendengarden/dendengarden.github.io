@@ -1,12 +1,13 @@
 {% assign category-slug = page.categories | first | downcase | replace: " ", "-" %}
 <div class="nav-header">
   <div class="wrapper wrapper-background">
-    <a href="/"><span>Home</span></a>
+    <a href="/"><span><div class="icon-text-align">Home</div></span></a>
+    <a href="/about"><span><div class="icon-text-align">About</div></span></a>
     {%- for category in site.categories -%}
     {% assign category-slug = category | first | downcase | replace: " ", "-" %}
     {% assign category-title = site.data.taxonomy[category-slug].title %}
     {% assign category-description = site.data.taxonomy[category-slug].description %}
-    <a href="{{category-slug | relative_url }}"><span><div class="category-icon {{category-slug}}"></div> {{category-title}}</span></a>
+    <a href="{{category-slug | relative_url }}"><span><div class="category-icon {{category-slug}}"></div><div class="icon-text-align">{{category-title}}</div></span></a>
     {%- endfor -%}
   </div>
 </div>
