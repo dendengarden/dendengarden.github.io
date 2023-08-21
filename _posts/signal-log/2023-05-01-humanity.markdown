@@ -5,7 +5,7 @@ date:   2023-05-01 00:00:00 -0400
 category: signal-log
 ---
 
-<img src="https://staging.cohostcdn.org/attachment/46315eb2-0b31-4fae-9304-f40f4a5256c0/HUMANITY_04.jpg" />
+<img alt="HUMANITY" src="/assets/img/posts/humanity.jpg" />
 
 [HUMANITY](https://humanity.game/) will be enhance's first fully original game project, which might be hard to believe as they've been around for a while refining mizuguchi's portfolio of synesthesia showpieces. have you played chuchu rocket, lemmings, intelligent qube, rez, jumping flash, or really any number of PS1-era games at the turn of the millenium? you'll find just about all of that DNA here but with controls that wisely betray the frustrated experience you probably expect to have with an action puzzler, based on my time with the demo. [the launch trailer](https://www.youtube.com/watch?v=iM1yO7bcqqk) knows where its roots are grounded too.
 
@@ -15,9 +15,9 @@ commiting to "never" as a professional usually does come back to bite you, but i
 
 <div style="display: flex; flex-direction: row; height: 500px; margin-bottom: 15px">
 <div style="height: 100%; width: 50%">
-<div style="background: url('https://staging.cohostcdn.org/attachment/883d791f-1def-4896-9a98-45b9c164a0a5/Ft_Worth_Modern_02.jpg') center center no-repeat; width: 100%; height: 50%; background-size: contain;"></div><div style="background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Langen_Foundation_Neuss_03.jpg/1920px-Langen_Foundation_Neuss_03.jpg') center center no-repeat; width: 100%; height: 50%; background-size: contain;"></div>
+<div style="background: url('/assets/img/posts/ft-worth.jpg') center center no-repeat; width: 100%; height: 50%; background-size: contain;"></div><div style="background: url('/assets/img/posts/langen.jpg') center center no-repeat; width: 100%; height: 50%; background-size: contain;"></div>
 </div>
-<div style="background: url('https://staging.cohostcdn.org/attachment/280e14af-a432-48a8-8920-90c8ac29f229/View_EXT-L_daytime_V01-9404366fd463eedec9dffeb5afb17a68.jpg') center center no-repeat; width: 50%; height: 100%; background-size: contain;"></div>
+<div style="background: url('/assets/img/posts/nyc-greenery.jpg') center center no-repeat; width: 50%; height: 100%; background-size: contain;"></div>
 </div>
 
 enhance's honest strength seems to be in their ability to headhunt people that are masters of their discipline and involve them deep into their projects. the eerie, almost angelic music in HUMANITY is from [jemapur](https://www.last.fm/music/Jemapur) twisting voice samples digitally, which incidentally shares concept with the music peppering [デザインあ](https://www.nhk.or.jp/design-ah/) that nakamura supervises. it's about as familiar an idea as recording a sample on your casio keyboard and playing melodies with your own voice, but to hear it executed in a way that avoids being campy and can cite intelligent influence like the engine sounds in [miyazaki's the wind rises](https://en.wikipedia.org/wiki/The_Wind_Rises) is a feat of technical and knowledgable care. for tetris effect, they brought on tomohiro "greentea" tatejima to supervise their multiplayer expansion and tweak the game's overall balance. greentea ran [the tetris club out of the university of tokyo](https://sites.google.com/view/uttetris/index), competes at a high level in NES tetris, and developed his own clone game, just to name some of his most directly relevant accomplishments. if you know anything about what constitutes modern tetris, you'll know just how rare it is to see the games get made by people that actually understand what makes tetris work. molding expert enthusiasm, and knowing where to find it, from different fields to make all the cogs turn together in a large project is harder than it seems. 
