@@ -310,6 +310,15 @@
   background-image: url("/assets/img/icons/permalink.svg");
 }
 
+.post-appeared {
+  background: #ffe0b3;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  padding: $spacing-unit / 4;
+  margin-right: 5px;
+}
+
 .post-content {
   margin-bottom: $spacing-unit;
   @include relative-font-size(1);
