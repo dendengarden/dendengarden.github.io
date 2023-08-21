@@ -1,6 +1,7 @@
 {% assign category-slug = page.categories | first | downcase | replace: " ", "-" %}
 <div class="nav-header">
   <div class="wrapper wrapper-background">
+    <a href="/"><span>Home</span></a>
     {%- for category in site.categories -%}
     {% assign category-slug = category | first | downcase | replace: " ", "-" %}
     {% assign category-title = site.data.taxonomy[category-slug].title %}

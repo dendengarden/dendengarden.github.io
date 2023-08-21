@@ -99,3 +99,10 @@ pre {
 .wrapper-background {
   background-color: rgb(242, 241, 239);
 }
+
+@media screen and (max-width: 800px) {
+  .wrapper {
+    padding-left: $spacing-unit / 8;
+    padding-right: $spacing-unit / 8;
+  }
+}

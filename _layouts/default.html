@@ -6,9 +6,7 @@
   <body>
     {%- include header.html -%}
 
-    {%- if page.layout != "home" -%}
-      {%- include nav.html -%}
-    {% endif %}
+    {%- include nav.html -%}
 
     {%- if page.layout == "category" -%}
       {%- include category-header.html category-slug=page.category -%}

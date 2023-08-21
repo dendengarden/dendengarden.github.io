@@ -1,8 +1,10 @@
 {% assign category-title = site.data.taxonomy[include.category-slug].title %}
 {% assign category-description = site.data.taxonomy[include.category-slug].description %}
-<div class="post-category-header">
+<div class="category-header">
   <div class="wrapper wrapper-background">
-    <h2><span class="post-category-header-icon {{include.category-slug}}"></span> {{ category-title }}</h2>
-    <a href="{{ "feed/" | append: include.category-slug | append: ".xml" | prepend: "/"}}" class="category-rss"></a>
+    <h2><span class="category-header-icon {{include.category-slug}}"></span> <div style="vertical-align: middle; display: inline-block">{{ category-title }}</div> <a title="RSS" href="{{ "feed/" | append: include.category-slug | append: ".xml" | prepend: "/"}}" class="category-rss"></a></h2>
+    <div class="category-info">
+      {{category-description}}
+    </div>
   </div>
 </div>

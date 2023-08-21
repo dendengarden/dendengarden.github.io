@@ -1,6 +1,5 @@
-/**
- * Site header
- */
+
+// Header + nav + common
 .site-header {
   text-align: center;
   margin-top: $spacing-unit;
@@ -45,46 +44,6 @@
   }
 }
 
-.site-icon {
-  display: inline-block;
-  width: 38px;
-  height: 46px;
-  background: url("/assets/img/sprout.png") center center no-repeat;
-  background-size: contain;
-  image-rendering: pixelated;
-}
-
-.home-garden {
-  background: url("/assets/img/nest.jpg") center center no-repeat;
-  background-size: contain;
-  margin: 0 auto $spacing-unit;
-  width: 600px;
-  height: 800px;
-  image-rendering: pixelated;
-}
-
-.post-category-header .wrapper {
-  line-height: 48px;
-  text-align: center;
-  padding: $spacing-unit / 2;
-  border-bottom: 1px solid $grey-color;
-}
-
-.post-category-header-icon {
-  height: 48px;
-  width: 48px;
-  display: inline-block;
-  background-size: 48px 48px;
-  vertical-align: top;
-}
-
-.nav-header .wrapper {
-  padding: 0;
-  display: grid;
-  grid-template-columns: auto auto;
-  border-bottom: 1px solid $grey-color;
-}
-
 @media screen and (max-width: 800px) {
   .site-header {
     margin-top: 0;
@@ -92,6 +51,13 @@
   .site-title {
     font-size: 9vw;
   }
+}
+
+.nav-header .wrapper {
+  padding: 0;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  border-bottom: 1px solid $grey-color;
 }
 
 .nav-header a {
@@ -127,34 +93,97 @@
   }
 }
 
-/**
- * Page content
- */
+.broadcast { background-image: url("/assets/img/broadcast.svg"); }
+.signal-log { background-image: url("/assets/img/signals.svg") }
+.bird-bath { background-image: url("/assets/img/bird-bath.svg") }
+
+/* Pages */
 .site-content .wrapper {
   box-shadow: 0 10px 5px rgba(0, 0, 0, 0.2);
+  min-height: 250px;
 }
 
-.categories {
-  display: grid;
-  grid-template-columns: 100%;
-  column-gap: 5%;
+/* Home */
+.site-icon {
+  width: 19px;
+  height: 23px;
+  background: url("/assets/img/sprout.png") center center no-repeat;
+  background-size: contain;
+  margin: 0 auto $spacing-unit / 2;
+  image-rendering: pixelated;
 }
 
-.category {
-  margin-bottom: $spacing-unit;
+.home-radio {
+  background: url("/assets/img/interference.png") center center no-repeat;
+  background-size: contain;
+  margin: 0 auto $spacing-unit;
+  width: 80vw;
+  height: 60vw;
+  max-width: 640px;
+  max-height: 480px;
+  image-rendering: pixelated;
 }
 
-.category:last-child {
-  margin-bottom: 0;
+.home-posts {
 }
 
-.category-header {
-  position: relative;
+.home-post-list-header {
+  @include relative-font-size(1.2);
   background: $brand-accent-color;
-  padding: 10px;
-  line-height: 32px;
+  padding: $spacing-unit / 4;
+  font-weight: bold;
 }
 
+.home-post-list {
+  margin: $spacing-unit / 2;
+  list-style: none;
+}
+
+.home-post-list li {
+  margin-bottom: $spacing-unit / 4;
+}
+
+.home-post-meta {
+  font-size: $small-font-size;
+  color: $grey-color;
+  display: inline-block;
+  margin: 0;
+}
+
+.home-post-category {
+  background: $brand-accent-color;
+  color: $text-color;
+  padding: 5px;
+  margin-right: 5px;
+  display: inline-block;
+  width: 100px;
+  text-align: center;
+}
+
+.home-post-icon {
+  height: 12px;
+  width: 12px;
+  display: inline-block;
+  background-size: 12px 12px;
+}
+
+.home-post-category-icon {
+  height: 12px;
+  width: 12px;
+  display: inline-block;
+  background-size: 12px 12px;
+}
+
+.home-post-meta time {
+  padding-left: 5px;
+  margin-left: 5px;
+  display: inline-block;
+  border-left: 1px solid $brand-accent-color;
+  min-width: 85px;
+  text-align: center;
+}
+
+// Categories
 .category-icon {
   height: 32px;
   width: 32px;
@@ -163,70 +192,44 @@
   background-size: 32px 32px;
   vertical-align: top;
 }
-.broadcast { background-image: url("/assets/img/broadcast.svg"); }
-.signal-log { background-image: url("/assets/img/signals.svg") }
-.bird-bath { background-image: url("/assets/img/bird-bath.svg") }
 
+.category-header .wrapper {
+  line-height: 48px;
+  text-align: center;
+  padding-top: $spacing-unit / 2;
+  padding-bottom: $spacing-unit / 2;
+  border-bottom: 1px solid $grey-color;
+}
+
+.category-header-icon {
+  height: 48px;
+  width: 48px;
+  display: inline-block;
+  background-size: 48px 48px;
+  vertical-align: top;
+}
 
 .category-info {
   display: block;
-  width: auto;
-  max-height: 0;
-  text-transform: initial;
   white-space: normal;
-  overflow: hidden;
   box-sizing: border-box;
   background: $brand-accent-color-light;
   font-style: italic;
   line-height: 1.5;
-}
-
-input[type="checkbox"] + label {
-  user-select: none;
-}
-.category-info-check {
-  display: none;
-}
-.category-info-icon {
-  user-select: none;
-  position: relative;
-  display: inline;
-  font-weight: normal;
-  @include relative-font-size(1.5);
-  border-bottom: 2px dotted $brand-color;
-  display: inline-block;
-  cursor: pointer;
-}
-.category-info-check:checked ~ .category-info {
-  max-height: initial;
-  padding: 0 5px;
-  margin: 10px 5px 0;
-}
-
-.category-title {
-  display: inline;
-  @include relative-font-size(1.25);
-  letter-spacing: 1px;
-  font-weight: bold;
-  margin-right: $spacing-unit / 4;
-}
-
-.category-page-info {
   text-align: center;
   font-style: italic;
+  padding: $spacing-unit / 2;
+  margin-top: $spacing-unit / 2;
 }
 
 .category-rss {
-  position: absolute;
-  top: 0;
-  right: 0;
-  height: 32px;
-  width: 32px;
+  height: 24px;
+  width: 24px;
+  vertical-align: middle;
   background-size: 24px 24px;
   background-position: center center;
   background-repeat: no-repeat;
   background-image: url("/assets/img/rss.svg");
-  vertical-align: top;
   display: inline-block;
 }
 
@@ -235,28 +238,23 @@ input[type="checkbox"] + label {
   list-style: none;
 }
 
-.post-meta {
+.category-post-meta {
   font-size: $small-font-size;
   color: $grey-color;
   display: inline-block;
-  margin: ($spacing-unit / 2) 0 0;
-}
-
-.categories .post-meta {
   margin: 0;
 }
 
-.post-meta time {
+.category-post-meta time {
   padding-right: 5px;
   margin-right: 5px;
   display: inline-block;
   border-right: 1px solid $brand-accent-color;
+  min-width: 85px;
+  text-align: center;
 }
 
-.categories .post-meta time {
-  min-width: 90px;
-}
-
+// Posts
 .post-header {
   margin-bottom: $spacing-unit;
 }
@@ -266,6 +264,7 @@ input[type="checkbox"] + label {
   letter-spacing: 1px;
   background-color: $brand-color;
   padding: $spacing-unit / 4;
+  margin-bottom: $spacing-unit / 2;
   color: white;
 }
 
@@ -282,6 +281,13 @@ input[type="checkbox"] + label {
   width: 12px;
   display: inline-block;
   background-size: 12px 12px;
+}
+
+.post-meta time {
+  padding-right: 5px;
+  margin-right: 5px;
+  display: inline-block;
+  border-right: 1px solid $brand-accent-color;
 }
 
 .post-permalink {
@@ -333,7 +339,7 @@ input[type="checkbox"] + label {
   padding-bottom: 56.25%;
 }
 
-.nav-link {
+.post-nav-link {
   display: block;
   margin-bottom: $spacing-unit / 2;
   &:before {
@@ -341,11 +347,75 @@ input[type="checkbox"] + label {
   }
 }
 
-/* Site footer */
+// Footer
 .site-footer {
   text-align: center;
   @include relative-font-size(0.75);
   font-weight: bold;  
   letter-spacing: 2px;
   margin: $spacing-unit 0;
+}
+
+// Defunct 
+.home-categories {
+  display: grid;
+  grid-template-columns: 100%;
+  column-gap: 5%;
+}
+
+.home-category-info {
+  display: block;
+  width: auto;
+  max-height: 0;
+  text-transform: initial;
+  white-space: normal;
+  overflow: hidden;
+  box-sizing: border-box;
+  background: $brand-accent-color-light;
+  font-style: italic;
+  line-height: 1.5;
+}
+input[type="checkbox"] + label {
+  user-select: none;
+}
+.home-category-info-check {
+  display: none;
+}
+.home-category-info-icon {
+  user-select: none;
+  position: relative;
+  display: inline;
+  font-weight: normal;
+  @include relative-font-size(1.5);
+  border-bottom: 2px dotted $brand-color;
+  display: inline-block;
+  cursor: pointer;
+}
+.home-category-info-check:checked ~ .category-info {
+  max-height: initial;
+  padding: 0 5px;
+  margin: 10px 5px 0;
+}
+
+.home-category-title {
+  display: inline;
+  @include relative-font-size(1.25);
+  letter-spacing: 1px;
+  font-weight: bold;
+  margin-right: $spacing-unit / 4;
+}
+
+.home-category {
+  margin-bottom: $spacing-unit;
+}
+
+.home-category:last-child {
+  margin-bottom: 0;
+}
+
+.home-category-header {
+  position: relative;
+  background: $brand-accent-color;
+  padding: 10px;
+  line-height: 32px;
 }

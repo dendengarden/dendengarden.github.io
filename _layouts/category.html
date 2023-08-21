@@ -7,27 +7,22 @@ layout: default
 
 <div class="category-page">
   {{ content }}
-  
-  <div class="category-page-info">
-    {{category-description}}
-  </div>
 
-  <div class="categories">
-      <ul class="category-post-list">
-        {%- for post in site.categories[category-slug] -%}
-        <li>
-          {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
-          <span class="post-meta"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: date_format }}</time></span>
-          {%- if post.link -%}
-            ⧉ <a rel="external nofollow" class="post-link" href="{{ post.link }}">
-              {{ post.title | escape }}
-            </a>
-          {%- else -%}
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
-            </a>
-          {%- endif -%}
-        </li>
-        {%- endfor -%}
-      </ul>
+  <ul class="category-post-list">
+    {%- for post in site.categories[category-slug] -%}
+    <li>
+      {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
+      <span class="category-post-meta"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: date_format }}</time></span>
+      {%- if post.link -%}
+        ⧉ <a rel="external nofollow" class="post-link" href="{{ post.link }}">
+          {{ post.title | escape }}
+        </a>
+      {%- else -%}
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      {%- endif -%}
+    </li>
+    {%- endfor -%}
+  </ul>
 </div>

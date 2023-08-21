@@ -5,7 +5,4 @@
 layout: home
 ---
 
-<div style="text-align: center; margin-bottom: 15px">
-    <div class="site-icon"></div><br />
-    Under construction
-</div>
+<div class="home-radio" title="電波のじゃま、しないでね!"></div>
