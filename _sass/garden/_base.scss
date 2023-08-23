@@ -31,8 +31,10 @@ li {
 
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  background: $background-color url("/assets/img/sky.png") top repeat-x;
+  background-size: 24px 600px;
+  image-rendering: pixelated;
   color: $text-color;
-  background-color: $background-color;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
