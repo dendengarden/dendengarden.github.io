@@ -3,6 +3,7 @@ layout: post
 title:  "sometimes, the most punk thing you can do is grow a garden"
 date:   2023-07-15 00:00:00 -0400
 category: signal-log
+src: [Cohost, https://cohost.org/bitto/post/2043499-sometimes-the-most]
 ---
 
 <img src="/assets/img/posts/garden.png" />
