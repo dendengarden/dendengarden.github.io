@@ -265,12 +265,14 @@
 }
 
 .category-post-meta-item {
-  background: $brand-accent-color;
+  background: $brand-accent-color-light;
+  text-align: center;
   color: $text-color;
   display: inline-block;
   box-sizing: border-box;
   line-height: 24px;
   height: 34px;
+  width: 110px;
   padding: 5px;
   margin-right: 5px;
 }
