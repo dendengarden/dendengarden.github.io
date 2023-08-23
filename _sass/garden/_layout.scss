@@ -262,21 +262,20 @@
   color: $grey-color;
   display: inline-block;
   margin: 0;
-}
-
-.category-post-meta-item {
-  background: $brand-accent-color-light;
-  text-align: center;
-  color: $text-color;
-  display: inline-block;
-  box-sizing: border-box;
-  line-height: 24px;
-  height: 34px;
-  width: 110px;
-  padding: 5px;
   margin-right: 5px;
 }
 
+
+.category-post-meta-item {
+  background: $brand-accent-color-light;
+  color: $text-color;
+  display: inline-block;
+  box-sizing: border-box;
+  line-height: 12px;
+  height: 22px;
+  width: 125px;
+  padding: 5px;
+}
 
 // Posts
 .post-header {
