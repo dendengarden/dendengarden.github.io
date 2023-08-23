@@ -19,7 +19,8 @@ layout: default
       <li>
         {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
         <span class="home-post-meta">
-          <span class="home-post-category"><span class="home-post-icon {{category-slug}}"></span> {{ category-title }}</span>
+          <span class="post-meta-item home-post-category"><span class="home-post-category-icon {{category-slug}}"></span> {{ category-title }}</span>
+          <time class="home-post-meta-item dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: date_format }}</time>
         </span>
         {%- if post.link -%}
           ⧉ <a rel="external nofollow" class="post-link" href="{{ post.link }}">
@@ -29,9 +30,6 @@ layout: default
           <a class="home-post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        <span class="home-post-meta">
-          <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: date_format }}</time>
-        </span>
         {%- endif -%}
       </li>
   {% endfor %}
