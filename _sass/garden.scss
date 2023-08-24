@@ -7,8 +7,8 @@
 
 :root {
   --text-color: rgb(0, 0, 0);
-  --background-color: rgb(135, 206, 235);
-  --background-url: url("/assets/img/sky.png");
+  --bg-color: rgb(135, 206, 235);
+  --bg-url: url("/assets/img/sky.png");
   --brand-color: rgb(0, 128, 0);
   --brand-accent-color: rgb(206, 199, 191);
   --brand-accent-color-light: rgb(228, 224, 220);
@@ -35,8 +35,8 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --text-color: rgb(236, 236, 236);
-    --background-color: rgb(50, 38, 73);
-    --background-url: url("/assets/img/sky_dark.png");
+    --bg-color: rgb(50, 38, 73);
+    --bg-url: url("/assets/img/sky_dark.png");
     --brand-color: rgb(100, 194, 85);
     --brand-accent-color: rgb(72, 46, 120);
     --brand-accent-color-light: rgb(61, 39, 102);
