@@ -10,7 +10,7 @@ h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: calc(var(--spacing-unit) / 2);
 }
 
 img {
@@ -19,7 +19,7 @@ img {
 }
 
  ul, ol {
-  margin-left: $spacing-unit;
+  margin-left: var(--spacing-unit);
 }
 
 li {
@@ -30,11 +30,11 @@ li {
 }
 
 body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  background: $background-color url("/assets/img/sky.png") top repeat-x;
+  font: var(--base-font-weight) var(--base-font-size)/var(--base-line-height) var(--base-font-family);
+  background: var(--background-color) var(--background-url) top repeat-x;
   background-size: 24px 600px;
   image-rendering: pixelated;
-  color: $text-color;
+  color: var(--text-color);
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -48,17 +48,17 @@ body {
 }
 
 a {
-  color: $brand-color;
+  color: var(--brand-color);
   text-decoration: underline;
 
   &:hover {
-    color: $text-color;
+    color: var(--text-color);
   }
 }
 
 blockquote {
-  border-left: 5px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
+  border-left: 5px solid var(--grey-color-light);
+  padding-left: calc(var(--spacing-unit) / 2);
 
   > :last-child {
     margin-bottom: 0;
@@ -68,7 +68,7 @@ blockquote {
 pre,
 code {
   @include relative-font-size(0.9375);
-  border: 1px solid $grey-color-light;
+  border: 1px solid var(--grey-color-light);
   border-radius: 3px;
   background-color: #eef;
 }
@@ -90,21 +90,20 @@ pre {
 
 .wrapper {
   position: relative;
-  box-sizing: border-box;
   width: 100vw;
   box-sizing: border-box;
-  max-width: $content-width;
+  max-width: var(--content-width);
   margin-right: auto;
   margin-left: auto;
-  padding: $spacing-unit;
+  padding: var(--spacing-unit);
 }
 .wrapper-background {
-  background-color: rgb(242, 241, 239);
+  background-color: var(--wrapper-background-color);
 }
 
 @media screen and (max-width: 800px) {
   .wrapper {
-    padding-left: $spacing-unit / 2;
-    padding-right: $spacing-unit / 2;
+    padding-left: calc(var(--spacing-unit) / 2);
+    padding-right: calc(var(--spacing-unit) / 2);
   }
 }

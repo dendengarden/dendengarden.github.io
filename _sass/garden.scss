@@ -5,47 +5,59 @@
   src: url("/assets/font/REM-VariableFont_wght.ttf");
 }
 
-$base-font-family: REM !default;
-$base-font-size:   16px !default;
-$base-font-weight: 400 !default;
-$small-font-size:  $base-font-size * 0.875 !default;
-$base-line-height: 1.5 !default;
+:root {
+  --text-color: rgb(0, 0, 0);
+  --background-color: rgb(135, 206, 235);
+  --background-url: url("/assets/img/sky.png");
+  --brand-color: rgb(0, 128, 0);
+  --brand-accent-color: rgb(206, 199, 191);
+  --brand-accent-color-light: rgb(228, 224, 220);
+  --grey-color: rgb(130, 130, 130);
+  --grey-color-light: rgb(181, 181, 181);
+  --wrapper-background-color: rgb(242, 241, 239);
+  --shadow-color: rgba(0, 0, 0, 0.3);
+  --header-title-outline-color: rgb(255, 255, 255);
+  --post-appeared-background-color: rgb(255, 224, 179);
+  --post-appeared-text-color: rgb(0, 0, 0);
+  --post-title-color: rgb(255, 255, 255);
 
-$spacing-unit:     30px !default;
+  --content-width: 800px;
+  --wrapper-height-min: 250px;
+  --spacing-unit: 30px;
 
-$text-color:       #111 !default;
-$background-color: #87ceeb !default;
-$brand-color: green !default;
-$brand-accent-color: rgb(206, 199, 191) !default;
-$brand-accent-color-light: lighten($brand-accent-color, 10%) !default;
+  --base-font-family: REM, Helvetica, Arial, sans-serif;
+  --base-font-size: 16px;
+  --base-font-weight: 400;
+  --base-line-height: 1.5;
+  --header-font-size: 9vw;
+}
 
-$grey-color:       #828282 !default;
-$grey-color-light: lighten($grey-color, 20%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
-
-$table-text-align: left !default;
-
-// Width of the content area
-$content-width:    800px !default;
-
-// Use media queries like this:
-// @include media-query($on-palm) {
-//   .wrapper {
-//     padding-right: $spacing-unit / 2;
-//     padding-left: $spacing-unit / 2;
-//   }
-// }
-@mixin media-query($device) {
-  @media screen and (max-width: $device) {
-    @content;
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: rgb(236, 236, 236);
+    --background-color: rgb(50, 38, 73);
+    --background-url: url("/assets/img/sky_dark.png");
+    --brand-color: rgb(100, 194, 85);
+    --brand-accent-color: rgb(72, 46, 120);
+    --brand-accent-color-light: rgb(61, 39, 102);
+    --grey-color-light: var(--grey-color);
+    --wrapper-background-color: rgb(39, 25, 65);
+    --shadow-color: initial;
+    --post-appeared-background-color: rgb(133, 7, 101);
+    --post-appeared-text-color: rgb(236, 236, 236);
+    .home-post-category-icon, .category-icon, .category-header-icon, .post-category-icon {
+      filter: invert(34%) sepia(11%) saturate(4761%) hue-rotate(225deg) brightness(92%) contrast(96%);
+    }
+    .site-content .wrapper {
+      box-shadow: initial;
+    }
   }
 }
 
 @mixin relative-font-size($ratio) {
-  font-size: $base-font-size * $ratio;
+  font-size: calc(var(--base-font-size) * $ratio);
 }
 
-// Import partials.
 @import
   "garden/base",
   "garden/layout",
