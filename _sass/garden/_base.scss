@@ -50,6 +50,7 @@ body {
 a {
   color: var(--brand-color);
   text-decoration: underline;
+  word-wrap: break-word;
 
   &:hover {
     color: var(--text-color);
