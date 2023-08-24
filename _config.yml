@@ -20,7 +20,6 @@ defaults:
       is_post: true
 
 feed:
-  excerpt_only: true
   categories:
     - broadcast
     - signal-log

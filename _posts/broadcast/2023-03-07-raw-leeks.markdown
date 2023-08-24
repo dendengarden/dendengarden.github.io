@@ -4,9 +4,10 @@ title:  "Please refrain from bringing raw leeks to the venue."
 date:   2023-03-07 12:23:00 -0400
 category: broadcast
 src: [Cohost, https://cohost.org/bitto/post/1140287-please-refrain-from]
+excerpt_separator: ""
 ---
 
-{% include image.html url="/assets/img/posts/magimirai-leeks-rule.png" alt="Please refrain from bringing raw leeks to the venue." caption="Participation rules for Magical Mirai 2023" %}
+{% include image.html url="/assets/img/posts/magimirai-leeks-rule.png" alt="A highlighted rule stating to &quot;Please refrain from bringing raw leeks to the venue.&quot;" caption="Participation rules for Magical Mirai 2023" %}
 
 for almost every hatsune miku concert in japan, tucked away in the important notices or guidelines covering basic attendee behaviors that anyone determined to break probably won't read, has been this strange, but cute rule.
 
@@ -18,7 +19,7 @@ there is, actually, a story here. but it's probably less dramatic than you expec
 
 ### Comiket and the initial boom
 
-{% include image.html url="/assets/img/posts/comiket-cos-rules.png" alt="" caption="Cosplay rules evolution at Comiket" %}
+{% include image.html url="/assets/img/posts/comiket-cos-rules.png" alt="Presentation slide showing a timeline of rule changes at Comiket from C80 until C84" caption="The evolution of cosplay rules at Comiket" %}
 
 comiket, traditionally, was very restrictive on cosplay that was allowed at their events. it's probably surprising for western fans to hear, but many events in japan, even doujin-centric events like comiket, require a registration fee if you plan to exhibit cosplay. comiket in its early history heavily regulated props, items, and dimensions, most notably having a blanket ban on props that exceeded 30cm:
 
@@ -38,7 +39,7 @@ jump ahead to 2009 and miku's first major concert is finally scheduled, with abs
 
 as part of the initial PR cycle for this concert, someone from crypton knew how to market and put the joke on full display. before anyone ever had the chance to misbehave at one, negi were prohibited at miku lives because crypton had to be firm on import controls:
 
-{% include image.html url="/assets/img/posts/mikufes-09.jpg" alt="" caption="Miku FES’09 promo image" %}
+{% include image.html url="/assets/img/posts/mikufes-09.jpg" alt="Miku FES’09 promo image with a footnote rule stating &quot;※ネギは持ち込み禁止です&quot;" caption="Miku FES’09 announced with a footnote prohibiting leeks" %}
 
 at least one publication announcing the event noted it [in their headline](https://www.itmedia.co.jp/news/articles/0907/08/news080.html):
 
@@ -57,7 +58,7 @@ these concerts have naturally grown in scope, venue, and polish as more sponsors
 
 [magical mirai](https://magicalmirai.com/10th/) has been the annually run major concert since 2013, and for every published attendee guidelines since then, "no negis" has remained an embedded rule. this effectively has cast the restriction in institutional amber the further removed we get from C73. no one actually knows if it's serious, no one except those who got in on the cultural ground floor know why or how it got there, but it's still very funny and is treated with the same gravitas as all the other rules that demonstrate some actual merit:
 
-{% include image.html url="/assets/img/posts/magimirai-leeks-sign.jpg" caption="Posted sign rules for Magical Mirai 2022, including one prohibiting leeks" %}
+{% include image.html url="/assets/img/posts/magimirai-leeks-sign.jpg" alt="Posted sign rules for Magical Mirai 2022, including one prohibiting leeks" caption="No leeks allowed at Magical Mirai 2022" %}
 
 ### A forgotten fan relic
 
