@@ -227,6 +227,11 @@
   display: inline-block;
   background-size: 48px 48px;
   vertical-align: top;
+  margin-right: calc(var(--spacing-unit) / 2);
+}
+
+.category-title {
+  margin-right: calc(var(--spacing-unit) / 2);
 }
 
 .category-info {
