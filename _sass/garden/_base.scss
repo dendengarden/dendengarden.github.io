@@ -56,9 +56,17 @@ a {
   }
 }
 
+hr {
+  color: var(--brand-accent-color);
+  margin-bottom: calc(var(--spacing-unit) / 2);
+}
+
 blockquote {
-  border-left: 5px solid var(--grey-color-light);
-  padding-left: calc(var(--spacing-unit) / 2);
+  border-left: 5px solid var(--brand-color);
+  padding: calc(var(--spacing-unit) / 4) calc(var(--spacing-unit) / 2);
+  background: var(--brand-accent-color-light);
+  width: 90%;
+  margin: 0 auto calc(var(--spacing-unit) / 2);
 
   > :last-child {
     margin-bottom: 0;
@@ -86,6 +94,13 @@ pre {
     padding-right: 0;
     padding-left: 0;
   }
+}
+
+figure { 
+  display: table; 
+}
+figcaption { 
+  display: table-caption; caption-side: bottom ; 
 }
 
 .wrapper {

@@ -6,7 +6,7 @@ category: signal-log
 src: [Cohost, https://cohost.org/bitto/post/2043499-sometimes-the-most]
 ---
 
-<img src="/assets/img/posts/garden.png" />
+{% include image.html url="/assets/img/posts/garden.png" alt="" caption="Screenshot of postbox.garden (Cambridge Cyber Gardening Club)" %}
 
 {% include blockquote.html src="https://postbox.garden/post.htm" attr="postbox.garden" quote="Perhaps this imageboard is a little different from some of the others you've visited - there is no reply button, after all. Instead, please mail your posts to our address, and we will scan and upload them when we receive them." %}
 

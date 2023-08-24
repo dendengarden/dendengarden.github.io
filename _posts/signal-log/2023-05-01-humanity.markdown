@@ -6,7 +6,7 @@ category: signal-log
 src: [Cohost, https://cohost.org/bitto/post/1426084-humanity]
 ---
 
-<img alt="HUMANITY" src="/assets/img/posts/humanity.jpg" />
+{% include image.html url="/assets/img/posts/humanity.jpg" alt="" caption="A screenshot of HUMANITY" %}
 
 [HUMANITY](https://humanity.game/) will be enhance's first fully original game project, which might be hard to believe as they've been around for a while refining mizuguchi's portfolio of synesthesia showpieces. have you played chuchu rocket, lemmings, intelligent qube, rez, jumping flash, or really any number of PS1-era games at the turn of the millenium? you'll find just about all of that DNA here but with controls that wisely betray the frustrated experience you probably expect to have with an action puzzler, based on my time with the demo. [the launch trailer](https://www.youtube.com/watch?v=iM1yO7bcqqk) knows where its roots are grounded too.
 

@@ -34,22 +34,22 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --text-color: rgb(236, 236, 236);
+    --text-color: rgb(246, 246, 246);
     --bg-color: rgb(50, 38, 73);
     --bg-url: url(/assets/img/sky_dark.png);
     --brand-color: rgb(100, 194, 85);
-    --brand-accent-color: rgb(72, 46, 120);
-    --brand-accent-color-light: rgb(61, 39, 102);
+    --brand-accent-color: rgb(49, 33, 78);
+    --brand-accent-color-light: rgb(76, 55, 117);
     --grey-color-light: var(--grey-color);
-    --wrapper-background-color: rgb(39, 25, 65);
-    --shadow-color: initial;
+    --wrapper-background-color: rgb(59, 45, 85);
+    --shadow-color: rgba(0, 0, 0, 0.1);
     --post-appeared-background-color: rgb(133, 7, 101);
     --post-appeared-text-color: rgb(236, 236, 236);
     .home-post-category-icon, .category-icon, .category-header-icon, .post-category-icon {
-      filter: invert(34%) sepia(11%) saturate(4761%) hue-rotate(225deg) brightness(92%) contrast(96%);
+      filter: invert(32%) sepia(10%) saturate(6348%) hue-rotate(230deg) brightness(90%) contrast(90%);
     }
-    .site-content .wrapper {
-      box-shadow: initial;
+    .post-category {
+      background: var(--brand-accent-color)
     }
   }
 }

@@ -1,0 +1,87 @@
+---
+layout: post
+title:  "Please refrain from bringing raw leeks to the venue."
+date:   2023-03-07 12:23:00 -0400
+category: broadcast
+src: [Cohost, https://cohost.org/bitto/post/1140287-please-refrain-from]
+---
+
+{% include image.html url="/assets/img/posts/magimirai-leeks-rule.png" alt="Please refrain from bringing raw leeks to the venue." caption="Participation rules for Magical Mirai 2023" %}
+
+for almost every hatsune miku concert in japan, tucked away in the important notices or guidelines covering basic attendee behaviors that anyone determined to break probably won't read, has been this strange, but cute rule.
+
+to the greater public, this looks absurd. to the otaku audience engaged with these concerts, it still looks absurd, but is rooted in a fan cognizance that [miku is closely tethered to leeks as a character item  going back to an old flash fad](https://anime.stackexchange.com/questions/19509/why-is-miku-shown-with-a-leek).
+
+as these guidelines have started to get officially translated into english and more fans have gotten used to watching concerts streamed online in recent years, many have [been exposed to this rule for the first time](https://twitter.com/EmirichuYT/status/1631470641726779392). like with any oddly specific sign telling you not to do something, the conclusion is quick: someone, somewhere has to have been brave enough to inspire such a specific rule. there must be a story behind this! perhaps someone brought rotting leeks to swing around wildly in the crowd like yaoi paddles. or maybe, the sheer smell of stinking onion was enough of an incident for it be listed ahead of even body odor?
+
+there is, actually, a story here. but it's probably less dramatic than you expect and says more about how collective fan consciousness can change over generations.
+
+### Comiket and the initial boom
+
+{% include image.html url="/assets/img/posts/comiket-cos-rules.png" alt="" caption="Cosplay rules evolution at Comiket" %}
+
+comiket, traditionally, was very restrictive on cosplay that was allowed at their events. it's probably surprising for western fans to hear, but many events in japan, even doujin-centric events like comiket, require a registration fee if you plan to exhibit cosplay. comiket in its early history heavily regulated props, items, and dimensions, most notably having a blanket ban on props that exceeded 30cm:
+
+> 30cm以上の「長物」は持込禁止
+
+other rules coupled this, like a ban on items that could be swung like weapons. in general, comiket's rules were seen as more restrictive than other contemporary events of the time that catered to cosplay. you probably have some sense of where we're heading with this.
+
+because of their length and general desire to be swung around like clubs of death, negi were defacto banned by comiket's cosplay guidance at the time miku exploded as a cultural force. on 2ch and other nerd hangouts of the time, this inspired a lot of hush in-jokes and ribbing that miku herself violated the guidance and was banned from comiket. that's deliberately an exaggeration, but it became all the more funny when the preparatory committee for C73 clarified in late 2007 that negi were explicitly banned not just for their length, but because of their *smell* and potential to cause a tripping hazard: http://mainichi.jp/enta/mantan/graph/manga/20071230/
+
+this really caught the attention of fans, and a few short weeks later, THE VOC@LOiD M@STER (the premiere vocaloid doujin event) made an explicit point of clarifying that you were totally fine to bring in raw negi *as long as you didn't swing them around or bite them*: http://ketto.com/tvm/tvm2ippan.htm
+
+starting with C80 in 2011, these rules gradually began to be relaxed and cosplay attendance boomed[^1]. nonetheless, the joke was enduring among nerds that were keen-eyed to the minutiae of event rules back before such things traveled much further than general threads and nico BBSes.
+
+### Miku FES'09
+
+jump ahead to 2009 and miku's first major concert is finally scheduled, with absolute headliners like [deadballP](https://vocadb.net/Ar/18) that are antiques even to most people that can tell you what crypton and miku are today. this was a heavily anticipated event, and pre-sale tickets naturally sold out on their first day. while that is practically a given for miku lives now in even larger venues[^2], nothing else about a miku live was standardized and none of the rules for how a miku concert was structured or ran existed yet.
+
+as part of the initial PR cycle for this concert, someone from crypton knew how to market and put the joke on full display. before anyone ever had the chance to misbehave at one, negi were prohibited at miku lives because crypton had to be firm on import controls:
+
+{% include image.html url="/assets/img/posts/mikufes-09.jpg" alt="" caption="Miku FES’09 promo image" %}
+
+at least one publication announcing the event noted it [in their headline](https://www.itmedia.co.jp/news/articles/0907/08/news080.html):
+
+> 初音ミクの“夏フェス”開催　※ネギは持ち込み禁止です
+
+as clever promotion to bring this joke home, and a forecasting of later item length restrictions that continue at lives today, negi balloons at full scale were also sold for this concert and promoted as "negi that are acceptable to bring in to the venue":
+
+> <strong>販売グッズ第一弾発表</strong><br>
+	『持ち込めるネギ』 を始めとするオフィシャルグッズ情報を更新しました
+
+fans weren't content to accept this, and perhaps being goaded into the idea, began performing Y-shaped negi glowstick surgery that make cycloning and peacock holders seem like polite activities. miku concerts for many years were unique in only permitting chemical glowsticks rather than the LED-based alternatives that had niceties like color switching and memory presets, but they too eventually started offering these negi cyalumes as official goods. while these have been largely phased out and miku lives have also adopted more traditional LED sticks, they're still a fixture of these early miku concerts like mikupa that were spread widely to international audiences through [clips on nico, youtube, and elsewhere](https://www.youtube.com/watch?v=eLouhvfv0Zg). the unique technological constraints involved with miku lives at the very beginning made their guidelines and restrictions become studied things by hardcore fans[^3].
+
+### Magical Mirai and the erosion of a joke
+
+these concerts have naturally grown in scope, venue, and polish as more sponsors have been involved and the tech has progressed to what you can legitimately call a professional production rather than a dressed-up underground idol live. crypton has maintained fairly close ties to the doujin culture of vocaloid, arguably more than most other franchises grown from fan grassroots. with a lot of institutional memory still on staff, they've devotedly carried this rule forward through the evolution of their live events, sometimes opting for simple signage, PA announcements, and even addressing it explicitly pre-show[^4].
+
+[magical mirai](https://magicalmirai.com/10th/) has been the annually run major concert since 2013, and for every published attendee guidelines since then, "no negis" has remained an embedded rule. this effectively has cast the restriction in institutional amber the further removed we get from C73. no one actually knows if it's serious, no one except those who got in on the cultural ground floor know why or how it got there, but it's still very funny and is treated with the same gravitas as all the other rules that demonstrate some actual merit:
+
+{% include image.html url="/assets/img/posts/magimirai-leeks-sign.jpg" caption="Posted sign rules for Magical Mirai 2022, including one prohibiting leeks" %}
+
+### A forgotten fan relic
+
+{% include blockquote.html src="https://twitter.com/otomania_net/status/1332115954277367808" attr="otomaniaP" quote="皆、すまない。13年以上経った今でも、こんな注意事項を記載しなければいけないのは、多分俺のせいなんだ" %}
+
+[otomania](https://vocadb.net/Ar/57), creator of the beloved miku leekspin, often jokes that he's responsible for this ban. judging by the replies on his tweets and also those in english asking what inspired the rule, it seems like this history has already been forgotten by pretty much everyone when, at an early time, you could reasonably expect a fan to know the origin. this can probably be attributed to two things:
+
+- **rapid fan and demographic expansion.** miku was an early nico darling and at her rise was steeped in only the nerdiest contexts. looking towards today, vocaloid is a pervasive presence for teenagers, especially for japanese teenagers that have [pushed songs to 100M views with tiktok](https://www.youtube.com/watch?v=dHXC_ahjtEE). there's no reason to expect they should have some awareness of a dorky joke from 15 years ago that remained largely insulated to BBS and nico otaku contemporary to the moe boom and before doujin had achieved tremendous success in commercialization.
+- **slow cultural osmosis between the east and the west**. this has changed dramatically in recent years, but let's appreciate how much fan knowledge is still either locked up on rotting blogs, old magazines, or has never been committed to even an oral history. 
+
+those are perfectly valid explanations and likely account here. thinking beyond them, I recall a lot of my own experience coming up as a teen when miku was the new thing and I couldn't seem to sate an appetite to absorb trivia. among anglosphere otaku spaces of old, and indeed among japanese ones as well, a great deal of pride has been placed among nerds in accumulating and recounting trivia. much of that knowledge persists only because of fan continuity, with someone being around to still recount it or knowing where to look for it. of course, publishing this post brings similar clarity to a small piece of fan history as well.
+
+with the expansion of traditional otaku media like anime, this trait has continued to be deemphasized and most characterizations of the term now seem to settle on the unbounded consumerist aspects. this has suggested over time a continued 'softening‘ of what encompasses an otaku, with some less charitable than me proclaiming that [the otaku is dead](https://www.youtube.com/watch?v=xJcxKtBmrFw)[^5]. that hits a little too close to a generational diss for my taste, but the encompassing idea of otaku has undeniably gone through generational change that is fairly obvious when you look for it.
+
+do we reasonably think new fans are less curious about their media? [teens have largely avoided search engines](https://www.nbcnews.com/tech/social-media/many-gen-zers-dont-use-google-s-prefer-search-tiktok-instagram-rcna38221), but the ample proliferation of video essays and lost media hunts suggests very real appetite for trivia and the obscure that can't be found on today's google. would anyone also be as clueless as to suggest that new consumers have generationally aged out of being fanatics? no, of course not. but it's probably fairly accurate to say that much of today's media has outgrown the hunting and gathering trivia otaku of old.
+
+---
+
+[^1]: comiket offers 2m as a general length limit currently, but they are pretty adamant that they now take a permissive approach to props in a lot of their official materials
+
+[^2]: the iconic studio coast in shin-kiba where this live took place unfortunately closed last year due to COVID factors and land redevelopment: [https://www.japantimes.co.jp/culture/2022/02/11/music/tokyo-ageha-studio-coast-closes/](https://www.japantimes.co.jp/culture/2022/02/11/music/tokyo-ageha-studio-coast-closes)
+
+[^3]: mikunopolis and the first miku expo inspired a few different cyalume handout campaigns that I can remember to promote the use of different colors for all of the featured crypton-loids, given the expectation that most people would not bring them and also to make sure people were using compliant models
+
+[^4]: mikupa 2011 had this warning announced by fujita saki: [https://zigsow.jp/item/184149/review/114445](https://zigsow.jp/item/184149/review/114445)
+
+[^5]: this talk was given in 2006 by the infamous [otaking](https://en.wikipedia.org/wiki/Toshio_Okada), which is frankly a premature obituary given everything that has followed
