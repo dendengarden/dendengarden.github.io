@@ -54,10 +54,6 @@
   }
 }
 
-@mixin relative-font-size($ratio) {
-  font-size: calc(var(--base-font-size) * $ratio);
-}
-
 @import
   "garden/base",
   "garden/layout",
