@@ -125,15 +125,31 @@
   image-rendering: pixelated;
 }
 
-.home-radio {
-  background: url("/assets/img/interference.png") center center no-repeat;
-  background-size: contain;
+.home-radio-container {
   margin: 0 auto var(--spacing-unit);
+  border: 15px groove rgb(209, 143, 0);
+  border-radius: 3px;
+  box-shadow: 0 10px 5px var(--shadow-color);
   width: 80vw;
-  height: 60vw;
-  max-width: 640px;
-  max-height: 480px;
-  image-rendering: pixelated;
+  height: 54.34vw;
+  max-width: 530px;
+  max-height: 360px;
+  background: rgb(240, 236, 220);
+  .home-radio {
+    width: 100%;
+    height: 100%;
+    background: url("/assets/img/interference-crop.png") center center no-repeat;
+    background-size: contain;
+    image-rendering: pixelated;
+  }
+}
+
+
+@media (prefers-color-scheme: dark) {
+  .home-radio-container {
+    border: 15px groove rgb(122, 81, 3);
+    background: rgb(200, 196, 180);
+  }
 }
 
 .home-post-list-header {

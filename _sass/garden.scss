@@ -32,13 +32,16 @@
   --header-font-size: 9vw;
 
   scrollbar-width: thin;
+
+  min-height: 100%;
+  box-sizing: border-box;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --text-color: rgb(246, 246, 246);
-    --bg-color: rgb(50, 38, 73);
-    --bg-url: url(/assets/img/sky_dark.png);
+    --bg-color: #211a30;
+    --bg-url: url(/assets/img/sky_dark-reverse.png);
     --brand-color: rgb(100, 194, 85);
     --brand-accent-color: rgb(49, 33, 78);
     --brand-accent-color-light: rgb(76, 55, 117);

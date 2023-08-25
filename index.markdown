@@ -5,4 +5,6 @@
 layout: home
 ---
 
+<div class="home-radio-container">
 <div class="home-radio" title="電波のじゃま、しないでね！"></div>
+</div>
