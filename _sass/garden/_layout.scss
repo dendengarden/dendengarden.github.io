@@ -362,6 +362,13 @@
     font-size: calc(var(--base-font-size) * 1.25);
     text-decoration: underline;
   }
+
+  h5 {
+    font-size: var(--base-font-size);
+    font-weight: inherit;
+    padding: calc(var(--spacing-unit) / 4) calc(var(--spacing-unit) / 2);
+    border: 5px dashed var(--brand-accent-color-light);
+  }
 }
 
 figure {
