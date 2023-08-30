@@ -281,8 +281,8 @@
 .category-post-list li {
   margin-bottom: calc(var(--spacing-unit) / 4);
   text-overflow: ellipsis;
-  white-space: nowrap;
-  overflow: hidden;
+  white-space: initial;
+  overflow: initial;
 }
 
 .category-post-meta {
