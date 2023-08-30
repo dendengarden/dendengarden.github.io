@@ -41,7 +41,7 @@ vocaloid in its early history saw crypton characters molded more as idols rather
 
 {% include youtube.html url="https://www.youtube.com/watch?v=D6DVTLvOupE" aspect-ratio="16 / 9" %}
 
-<h5>a small programming note if you got this far: these charts exclude some valid entries that were overlooked in scraping, but otherwise shouldn't affect trends and proportions of this data. I'll fix them soon!</h5>
+<div class="post-note">a small programming note if you got this far: these charts exclude some valid entries that were overlooked in scraping, but otherwise shouldn't affect trends and proportions of this data. I'll fix them soon!</div>
 
 ---
 

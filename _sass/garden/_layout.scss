@@ -363,6 +363,15 @@
   background-image: url("/assets/img/icons/permalink.svg");
 }
 
+.post-note {
+  margin-bottom: var(--spacing-unit);
+  line-height: calc(var(--base-font-size) * 2);
+  font-size: var(--base-font-size);
+  font-weight: inherit;
+  padding: calc(var(--spacing-unit) / 4) calc(var(--spacing-unit) / 2);
+  border: 5px dashed var(--brand-accent-color-light);
+}
+
 .post-content {
   margin-bottom: var(--spacing-unit);
   line-height: calc(var(--base-font-size) * 2);
@@ -380,13 +389,6 @@
   h4 {
     font-size: calc(var(--base-font-size) * 1.25);
     text-decoration: underline;
-  }
-
-  h5 {
-    font-size: var(--base-font-size);
-    font-weight: inherit;
-    padding: calc(var(--spacing-unit) / 4) calc(var(--spacing-unit) / 2);
-    border: 5px dashed var(--brand-accent-color-light);
   }
 }
 
