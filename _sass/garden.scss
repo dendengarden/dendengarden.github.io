@@ -37,6 +37,7 @@
   box-sizing: border-box;
 }
 
+/*
 @media (prefers-color-scheme: dark) {
   :root {
     --text-color: rgb(246, 246, 246);
@@ -58,9 +59,9 @@
     }
   }
 }
+*/
 
 @import
   "garden/base",
-  "garden/layout",
-  "garden/syntax-highlighting"
+  "garden/layout"
 ;

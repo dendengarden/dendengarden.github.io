@@ -144,14 +144,6 @@
   }
 }
 
-
-@media (prefers-color-scheme: dark) {
-  .home-radio-container {
-    border: 15px groove rgb(122, 81, 3);
-    background: rgb(200, 196, 180);
-  }
-}
-
 .home-post-list-header {
   font-size: calc(var(--base-font-size) * 1.2);
   background: var(--brand-accent-color);
