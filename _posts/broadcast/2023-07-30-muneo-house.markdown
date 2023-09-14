@@ -164,9 +164,9 @@ just as soon as this first album was finished baking, work had begun on a sequel
 
 {% assign images = "" | split: ',' %}
 {% assign images-alt = "" | split: ',' %}
-{% assign images = images | push: url="/assets/img/posts/muneo-tv.png" %}
+{% assign images = images | push:"/assets/img/posts/muneo-tv.png" %}
 {% assign images-alt = images-alt | push: "ムネオハウス screenshot from a Japanese TV channel explaining what 'Muneo' and 'House' mean" %}
-{% assign images = images | push: url="/assets/img/posts/muneo-simpsons.png" %}
+{% assign images = images | push: "/assets/img/posts/muneo-simpsons.png" %}
 {% assign images-alt = images-alt | push: "Simpons screenshot where Lyle Lanley explains what 'mono' and 'rail' mean" %}
 {% include image-grid.html images=images images-alt=images-alt grid-layout="two" %}
 
