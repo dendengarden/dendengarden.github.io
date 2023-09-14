@@ -278,14 +278,12 @@
 }
 
 .category-post-meta {
-  color: var(--grey-color);
   display: inline-block;
   margin: 0 5px 5px 0;
 }
 
-
 .category-post-meta-item {
-  background: var(--brand-accent-color-light);
+  background: var(--brand-accent-color);
   color: var(--text-color);
   display: inline-block;
   box-sizing: border-box;
@@ -293,6 +291,10 @@
   height: 30px;
   width: 125px;
   padding: 5px;
+}
+
+.category-post-meta time {
+  background: var(--brand-accent-color-light);
 }
 
 // Posts
@@ -384,6 +386,13 @@
   }
 }
 
+.post-src-highlight {
+  background: var(--post-src-highlight-color);
+  padding: 0.75rem; 
+  text-align: right;
+  margin-bottom: 1.25em;
+}
+
 figure {
   margin: 0 auto calc(var(--spacing-unit) / 2);
   .caption {
@@ -391,6 +400,23 @@ figure {
     padding: calc(var(--spacing-unit) / 4) calc(var(--spacing-unit) / 2);
     font-style: italic;
   }
+}
+
+figure.post-audio, audio {
+  width: 100%;
+}
+figure.post-audio figcaption {
+  background: var(--brand-accent-color-light);
+  padding: 0.75rem; 
+  text-align: left;
+  font-weight: bold;
+}
+figure.post-audio .post-audio-source {
+  float: right;
+}
+
+figure.post-image figcaption {
+  caption-side: bottom;
 }
 
 .post-image-grid figure {

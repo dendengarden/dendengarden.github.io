@@ -1,5 +1,5 @@
 <div class="post-image-grid" >
-    <figure class="post-grid {{include.grid-layout}}" role="figure" aria-label="{{include.caption}}">
+    <figure class="post-grid {{include.grid-layout}}" role="figure" {% if include.caption %} {% else %} aria-label="Image grid" {% endif %}>
         {% for image in include.images %}
         {% assign alt-index = forloop.index | minus: 1 %}
         <img src="{{ image || absolute_url }}" class="{{ 'image' | append: {{forloop.index}}" alt="{{include.images-alt[alt-index]}}"/>
