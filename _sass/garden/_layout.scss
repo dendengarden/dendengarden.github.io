@@ -415,6 +415,9 @@ figure.post-audio .post-audio-source {
   float: right;
 }
 
+figure.post-image img {
+  object-fit: cover;
+}
 figure.post-image figcaption {
   caption-side: bottom;
 }
