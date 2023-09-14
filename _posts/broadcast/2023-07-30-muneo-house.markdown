@@ -55,7 +55,7 @@ with plenty of background on japanese-russian relations, as we pivot back into h
       <div style="margin-left: 40px"><a href="#" style="color: blue" target="_blank">&gt;&gt;1</a> <br /> 氏ね</div>
     </div>
   </summary>
-  <div style="position: absolute; top: 0; z-index: 2; width: 100%; pointer-events: none; font-size:0; line-height: 0; background: #efefef; ">
+  <div style="position: absolute; top: 0; z-index: 2; width: 100%; height: 100%; pointer-events: none; font-size:0; line-height: 0; background: #efefef; ">
     <div style="position: absolute; right: 10px; user-select: none; overflow: hidden; color: black; width: 100px; line-height: 32px; font-size: 18px; cursor: pointer; border: 1px solid black; border-radius: 5px; margin: 10px 0 0 10px; box-sizing: border-box;">
       <div style="display: inline-block; background: gray; width: 50%; text-align: center; color: #555;">JP</div><div style="display: inline-block; background: green; width: 50%; text-align: center; color: white;">EN</div>
     </div>
@@ -92,7 +92,7 @@ muneo house equals acid house. the next reply minced no words of its own, callin
       <div style="margin-left: 40px"><a href="#" style="color: blue" target="_blank">&gt;&gt;110</a> <br />   フラッシュ板に作成依頼してきたよ。 <br /></div>
     </div>
   </summary>
-  <div style="position: absolute; top: 0; z-index: 2; width: 100%; pointer-events: none; font-size:0; line-height: 0; background: #efefef; ">
+  <div style="position: absolute; top: 0; z-index: 2; width: 100%; height: 100%; pointer-events: none; font-size:0; line-height: 0; background: #efefef; ">
     <div style="position: absolute; right: 10px; user-select: none; overflow: hidden; color: black; width: 100px; line-height: 32px; font-size: 18px; cursor: pointer; border: 1px solid black; border-radius: 5px; margin: 10px 0 0 10px; box-sizing: border-box;">
       <div style="display: inline-block; background: gray; width: 50%; text-align: center; color: #555;">JP</div><div style="display: inline-block; background: green; width: 50%; text-align: center; color: white;">EN</div>
     </div>
@@ -138,7 +138,7 @@ with the first push coming from the interest around muneo's testimony, fanatics 
       <div style="margin-left: 40px">この勢いだとパート２までいくな <br /> 正直ここまで引っ張れるネタになるとは <br /> おもわんかった。 <br /><br /></div>
     </div>
   </summary>
-  <div style="position: absolute; top: 0; z-index: 2; width: 100%; pointer-events: none; font-size:0; line-height: 0; background: #efefef; ">
+  <div style="position: absolute; top: 0; z-index: 2; width: 100%; height: 100%; pointer-events: none; font-size:0; line-height: 0; background: #efefef; ">
     <div style="position: absolute; right: 10px; user-select: none; overflow: hidden; color: black; width: 100px; line-height: 32px; font-size: 18px; cursor: pointer; border: 1px solid black; border-radius: 5px; margin: 10px 0 0 10px; box-sizing: border-box;">
       <div style="display: inline-block; background: gray; width: 50%; text-align: center; color: #555;">JP</div><div style="display: inline-block; background: green; width: 50%; text-align: center; color: white;">EN</div>
     </div>
@@ -192,7 +192,7 @@ by the 10th album's release, still only two months out from the beginning frenzy
       <div style="margin-left: 40px"> ちょっと思ったんだがどうだろう。 <br /> ここらでひとつムネオハウスで思いっきり踊れるイベントなんかが <br /> あってもいいんじゃなかろうか・・・ <br /> 漏れはちいさなイベントを単発でオーガナイズしたりするので <br /> もしよければハコの手配などこちらでやってもいいんだけど・・ <br /> というかぜひそんなイベントをやってみたいと思ってます。 <br /> そんなイベントがあったらDJとして参加したい人っているかなあ・・・？ <br /> ただし漏れは東京の区部に住んでいるので新宿、渋谷あたりのクラブになってしまうけど。 <br /> （それ以外の地域の方ごめんなさい） <br /> みなさんどうでしょうか？ <br /> <br /> </div>
     </div>
   </summary>
-  <div style="position: absolute; top: 0; z-index: 2; width: 100%; pointer-events: none; font-size:0; line-height: 0; background: #efefef; ">
+  <div style="position: absolute; top: 0; z-index: 2; width: 100%; height: 100%; pointer-events: none; font-size:0; line-height: 0; background: #efefef; ">
     <div style="position: absolute; right: 10px; user-select: none; overflow: hidden; color: black; width: 100px; line-height: 32px; font-size: 18px; cursor: pointer; border: 1px solid black; border-radius: 5px; margin: 10px 0 0 10px; box-sizing: border-box;">
       <div style="display: inline-block; background: gray; width: 50%; text-align: center; color: #555;">JP</div><div style="display: inline-block; background: green; width: 50%; text-align: center; color: white;">EN</div>
     </div>
