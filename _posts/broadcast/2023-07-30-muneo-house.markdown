@@ -68,7 +68,7 @@ with plenty of background on japanese-russian relations, as we pivot back into h
     </div>
   </div>
 </details> 
-<div style="background: #fbeddb; padding: 0.75rem; text-align: right;"><a href="http://music.5ch.net/test/read.cgi/techno/1013613060/">http://music.5ch.net/test/read.cgi/techno/1013613060</a>/</div>
+<div style="background: #fbeddb; padding: 0.75rem; text-align: right; margin-bottom: 1.25em"><a href="http://music.5ch.net/test/read.cgi/techno/1013613060/">http://music.5ch.net/test/read.cgi/techno/1013613060</a>/</div>
 
 muneo house equals acid house. the next reply minced no words of its own, calling it a shit thread. another few replies would go on to [*sage*](https://knowyourmeme.com/memes/sage) it for having nothing to do with music, a very visible signal that they would prefer that the thread expire off the board altogether. people mostly used the thread for throwaway jokes more akin to toilet graffiti, and it was likely fated to be just another forgotten relic, until one poster returned a week later to take the assignment literally with an MP3 that likely took far less time to make. overnight, the thread started to take on a new life:
 
