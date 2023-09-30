@@ -3,6 +3,7 @@ layout: post
 title:  "vocaloid data rummaging, part 2/?: a thousand voicebanks"
 date:   2023-07-08 08:21:00 -0400
 category: broadcast
+banner: "/assets/img/posts/vocaloid-part2-vocalists.png"
 src: [Cohost, https://cohost.org/bitto/post/1798295-vocaloid-data-rummag]
 excerpt_separator: ""
 ---

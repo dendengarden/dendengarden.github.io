@@ -3,6 +3,7 @@ layout: post
 title:  "if you love it enough, it will live"
 date:   2023-08-29 00:00:00 -0400
 category: signal-log
+banner: "/assets/img/posts/dollfie-farewell.png"
 src: [Cohost, https://cohost.org/bitto/post/2615561-if-you-love-it-enoug]
 excerpt_separator: ""
 ---

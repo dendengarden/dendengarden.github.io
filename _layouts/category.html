@@ -13,7 +13,7 @@ layout: default
     <li>
       {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
       <span class="category-post-meta">
-        <span class="category-post-meta-item home-post-category"><span class="home-post-category-icon {{category-slug}}"></span>{{ category-title }}</span><time class="category-post-meta-item dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: date_format }}</time>
+        <time class="category-post-meta-item dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: date_format }}</time>
       </span>
       {%- if post.link -%}
         ⧉ <a class="category-post-link" rel="external nofollow" title="{{post.title | escape }}" href="{{ post.link }}">

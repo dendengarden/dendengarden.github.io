@@ -9,28 +9,38 @@ layout: default
 
   {{ content }}
 
-  <div class="home-post-list-header"><div style="vertical-align: middle; display: inline-block">Now transmitting</div> <a title="RSS" href="/feed.xml" class="category-rss"></a></div>
+  <div class="home-banner"><div style="vertical-align: middle; display: inline-block">Now transmitting</div> <a title="RSS" href="/feed.xml" class="category-rss"></a></div>
 
-  <ul class="home-post-list">
+  <div class="home-post-grid">
+  {% assign count = 0 %}
   {% for post in site.posts %}
-    {% assign category-slug = post.category | downcase | replace: " ", "-" %}
-    {% assign category-title = site.data.taxonomy[category-slug].title %}
-    {{category-description}}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
-        <span class="home-post-meta">
-          <span class="home-post-meta-item home-post-category"><span class="home-post-category-icon {{category-slug}}"></span>{{ category-title }}</span><time class="home-post-meta-item dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: date_format }}</time>
-        </span>
-        {%- if post.link -%}
-          ⧉ <a class="home-post-link" rel="external nofollow" title="{{post.title | escape }}" href="{{ post.link }}">
-            {{ post.title | escape }}
-          </a>
-        {%- else -%}
-          <a class="home-post-link" title="{{post.title | escape }}" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        {%- endif -%}
-      </li>
+    {% if post.banner %}
+      {% assign category-slug = post.category | downcase | replace: " ", "-" %}
+      {% assign category-title = site.data.taxonomy[category-slug].title %}
+      {% assign count = count | plus: 1 %}
+        <div class="home-post-grid-item" style="background-image: url({{ post.banner | absolute_url }})">
+          {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
+          <a class="home-post-title" rel="external nofollow" title="{{post.title | escape }}" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <div class="home-post-meta">
+            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: date_format }}</time>
+          </div>
+          <!--
+          {%- if post.link -%}
+            ⧉ <a class="home-post-link" rel="external nofollow" title="{{post.title | escape }}" href="{{ post.link }}">
+              {{ post.title | escape }}
+            </a>
+          {%- else -%}
+            <a class="home-post-link" title="{{post.title | escape }}" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          {%- endif -%}
+          -->
+        </div>
+    {% else %}
+    {% endif %}
+    {% if count >= 8 %}
+      {% break %}
+    {% endif %}
   {% endfor %}
   </ul>
 </div>

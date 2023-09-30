@@ -3,6 +3,7 @@ layout: post
 title:  "HUMANITY"
 date:   2023-05-01 00:00:00 -0400
 category: signal-log
+banner: "/assets/img/posts/humanity.jpg"
 src: [Cohost, https://cohost.org/bitto/post/1426084-humanity]
 excerpt_separator: ""
 ---

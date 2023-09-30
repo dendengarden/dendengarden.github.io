@@ -3,6 +3,7 @@ layout: post
 title:  "political bribes, a house that went underground, and the first sound MADs: the enigmatic digital halo around muneo suzuki"
 date:   2023-07-30 11:36:00 -0400
 category: broadcast
+banner: "/assets/img/posts/muneo-house-party-lead.jpg"
 src: [Cohost, https://cohost.org/bitto/post/2162563-political-bribes-a]
 excerpt_separator: ""
 ---

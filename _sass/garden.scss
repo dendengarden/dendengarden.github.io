@@ -7,6 +7,7 @@
 
 :root {
   --text-color: rgb(0, 0, 0);
+  --white: rgb(255, 255, 255);
   --bg-color: rgb(135, 206, 235);
   --bg-url: url(/assets/img/sky.png);
   --brand-color: rgb(0, 128, 0);
@@ -30,7 +31,7 @@
   --spacing-unit: 30px;
 
   --base-font-family: REM, Helvetica, Arial, sans-serif;
-  --base-font-size: 16px;
+  --base-font-size: 18px;
   --base-font-weight: 400;
   --base-line-height: 1.5;
   --header-font-size: 9vw;
@@ -55,7 +56,7 @@
     --shadow-color: rgba(0, 0, 0, 0.1);
     --post-appeared-background-color: rgb(133, 7, 101);
     --post-appeared-text-color: rgb(236, 236, 236);
-    .home-post-category-icon, .category-icon, .category-header-icon, .post-category-icon {
+    .category-icon, .category-header-icon, .post-category-icon {
       filter: invert(32%) sepia(10%) saturate(6348%) hue-rotate(230deg) brightness(90%) contrast(90%);
     }
     .post-category {

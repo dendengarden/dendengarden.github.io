@@ -3,6 +3,7 @@ layout: post
 title:  "Toshio Iwai's interactive art"
 date:   2023-06-05 00:00:00 -0400
 category: broadcast
+banner: "/assets/img/posts/iwai.png"
 src: [Cohost, https://cohost.org/bitto/post/1568242-toshio-iwai-s-intera]
 excerpt_separator: ""
 ---

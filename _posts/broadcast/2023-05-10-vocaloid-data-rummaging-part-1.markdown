@@ -3,6 +3,7 @@ layout: post
 title:  "vocaloid data rummaging, part 1/?: the disappearance of hatsune miku's links"
 date:   2023-05-10 21:53:00 -0400
 category: broadcast
+banner: "/assets/img/posts/vocaloid-part1-year.png"
 src: [Cohost, https://cohost.org/bitto/post/1455327-vocaloid-data-rummag]
 excerpt_separator: ""
 ---
