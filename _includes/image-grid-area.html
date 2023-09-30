@@ -1,5 +1,5 @@
-    <div class="overlay">
-        <img src="{{include.url}}" class="{{ 'image' | append: {{include.index}}" alt="{{include.alt}}"/>
+    <div class="overlay {{ 'image' | append: {{include.index}}">
+        <img src="{{include.url}}" alt="{{include.alt}}"/>
         {% if include.notes %}
         <div class="notes">
             {% for note in include.notes %}

@@ -32,13 +32,10 @@ muneo's back channel connections to russia have been, at times, uncomfortably co
 
 ### cynical romantics turned cynical creatives
 
-{% assign images = "" | split: ',' %}
-{% assign images-alt = "" | split: ',' %}
-{% assign images = images | push: "/assets/img/posts/muneo-4th.jpg" %}
-{% assign images-alt = images-alt | push: "Muneo House 4th album cover" %}
-{% assign images = images | push: "/assets/img/posts/muneo-20th.jpg" %}
-{% assign images-alt = images-alt | push: "Muneo House 20th album cover" %}
-{% include image-grid-old.html images=images images-alt=images-alt grid-layout="two" %}
+{% include image-grid-start.html grid-layout="two" %}
+{% include image-grid-area.html index=1 url="/assets/img/posts/muneo-4th.jpg" alt="Muneo House 4th album cover" %}
+{% include image-grid-area.html index=2 url="/assets/img/posts/muneo-20th.jpg" alt="Muneo House 20th album cover" %}
+{% include image-grid-end.html %}
 
 with plenty of background on japanese-russian relations, as we pivot back into how this all ties into 2ch, you might think I'm going to say it acted as the bedrock for some radicalist netto-uyoku propaganda movement. instead, you should feel free to let everything you've just read until now drain out of your mental faucet. the edges of that story are far too rough, and far too heavy, for it have any hope of traveling very far online. just as with [biden and trump playing wii sports](https://www.youtube.com/watch?v=q6ra0KDgVbg), or [george bush dancing to a late 90s house hit](https://www.youtube.com/watch?v=xPkeIV1CRCM), political figures are much more entertaining as charicatures of themselves that aren't necessarily rooted in a strict political reality. here, a pun travels more easily, and before people tweeted their uselessly bad puns from the toilet, one post to 2ch's /techno/ board unknowingly planted the roots for a movement that was initially welcomed there with the 2ch equivalent of a groan:
 
@@ -162,13 +159,10 @@ with the first push coming from the interest around muneo's testimony, fanatics 
 
 just as soon as this first album was finished baking, work had begun on a sequel. muneo house, at this point, begins to run away with a success that is probably difficult to fully capture in just one isolated examination of it. after this initial impromtu thread, the movement would then regroup as a general, already the custom on 2ch at this time, and spawned [40 threads](https://soraneko3.tripod.com/) that would go on to produce [24 complete albums](https://www.muneohouse.net/review.html). back when yahoo still maintained a curated directory, its intial claim to relevance, [muneo house was distinguished as a category](https://web.archive.org/web/20020604103813/http://dir.yahoo.co.jp/Entertainment/Music/Humor/Muneo_House/) listing a sampling of personal sites that buckled under a surge of new traffic. it's also difficult for us to remember well removed from its time, but ideas of the internet as a creative function rather than just a destination for content were still rather new, and muneo house's cross-appeal into living, breathing politics found it receiveing [a decent amount of attention from mainstream, old media press](https://www.youtube.com/watch?v=k4_CvR7H0Ps).
 
-{% assign images = "" | split: ',' %}
-{% assign images-alt = "" | split: ',' %}
-{% assign images = images | push:"/assets/img/posts/muneo-tv.png" %}
-{% assign images-alt = images-alt | push: "ムネオハウス screenshot from a Japanese TV channel explaining what 'Muneo' and 'House' mean" %}
-{% assign images = images | push: "/assets/img/posts/muneo-simpsons.png" %}
-{% assign images-alt = images-alt | push: "Simpons screenshot where Lyle Lanley explains what 'mono' and 'rail' mean" %}
-{% include image-grid-old.html images=images images-alt=images-alt grid-layout="two" %}
+{% include image-grid-start.html grid-layout="two" %}
+{% include image-grid-area.html index=1 url="/assets/img/posts/muneo-tv.png" alt="ムネオハウス screenshot from a Japanese TV channel explaining what 'Muneo' and 'House' mean" %}
+{% include image-grid-area.html index=2 url="/assets/img/posts/muneo-simpsons.png" alt="Simpons screenshot where Lyle Lanley explains what 'mono' and 'rail" %}
+{% include image-grid-end.html %}
 
 it's probably important that we also step back for a moment and ask what is no doubt a nagging question: why? what sort of appeal does muneo suzuki command that an entire grassroots musical movement could be inspired around him? while it's tempting to discard the prompt, knowing a joke is almost never told better when you dissect it, it is valuable to reconsider muneo house's appeal in the broader political and unruly contexts that 2ch operated with. while pockets of 2ch may have found their strength on the site organizing campaigns around nationalist propaganda, there is a greater overarching quality that unites that obnoxious faction with the rest of the cynical romantics that were consuming and producing crude flash content: a coy desire to defame. certainly, there is an inherent danger in elevating a controversial political figure as the core of an entertaining aesthetic, and [it is also an approach that more modern radicalist movements have attempted to capitalize on with music](https://www.splcenter.org/hatewatch/2017/10/17/fashwave-electronic-music-alt-right-just-more-hateful-subterfuge), but the obvious entertainment embedded in muneo house is more clearly an uncouth, humorous treatment of muneo himself. muneo is a highly public, remarkably photogenic person, which already made him a desirable target for subterfuge, but his very public struggle to have any control of his image as he was caught in the net of a political controversy is what made him especially appealing to prop up, like a drunk uncle caught up in the winds of rhythm. muneo house has never much been about muneo's politics, and its members would also freely tell you that it operates to be politically neutral, but rather [the public concept of muneo and the mass media fame he represented](https://www.youtube.com/watch?v=PmTUW-owa2w). muneo was only one of the many possible public, famous, and corrupt figures that could have been chosen as 2ch's target — he was just conveniently timed to be a 2ch puppet before [other politicans had a chance to truly make a case for themselves](https://www.youtube.com/watch?v=TE-j8DwHJXU). 
 
