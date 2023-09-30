@@ -1,0 +1,15 @@
+    <div class="overlay">
+        <img src="{{include.url}}" class="{{ 'image' | append: {{include.index}}" alt="{{include.alt}}"/>
+        {% if include.notes %}
+        <div class="notes">
+            {% for note in include.notes %}
+                {% assign note-index = forloop.index | minus: 1 %}
+                {% assign note-position = include.notes-position[note-index] || split: ", " %}
+                {% assign note-size = include.notes-size[note-index] || split: ", " %}
+                <div class="note" style="top: {{note-position[0]}}; left: {{note-position[1]}}; width: {{note-size[0]}}; height: {{note-size[1]}}">
+                    <div class="note-body">{{note}}</div>
+                </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
