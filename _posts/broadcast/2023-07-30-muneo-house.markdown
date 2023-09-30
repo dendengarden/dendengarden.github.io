@@ -40,7 +40,7 @@ muneo's back channel connections to russia have been, at times, uncomfortably co
 
 with plenty of background on japanese-russian relations, as we pivot back into how this all ties into 2ch, you might think I'm going to say it acted as the bedrock for some radicalist netto-uyoku propaganda movement. instead, you should feel free to let everything you've just read until now drain out of your mental faucet. the edges of that story are far too rough, and far too heavy, for it have any hope of traveling very far online. just as with [biden and trump playing wii sports](https://www.youtube.com/watch?v=q6ra0KDgVbg), or [george bush dancing to a late 90s house hit](https://www.youtube.com/watch?v=xPkeIV1CRCM), political figures are much more entertaining as charicatures of themselves that aren't necessarily rooted in a strict political reality. here, a pun travels more easily, and before people tweeted their uselessly bad puns from the toilet, one post to 2ch's /techno/ board unknowingly planted the roots for a movement that was initially welcomed there with the 2ch equivalent of a groan:
 
-<details style="position: relative; overflow: hidden; width: 100%; background: #efefef">
+<details style="position: relative; overflow: hidden; width: 100%; background: #efefef; border: 5px solid #e3e3e3; box-sizing: border-box;">
   <summary style="font-size: 0; line-height: 0;">
     <div style="position: absolute; right: 10px; user-select: none; overflow: hidden; color: black; width: 100px; line-height: 32px; font-size: 18px; cursor: pointer; border: 1px solid black; border-radius: 5px; margin: 10px 0 0 10px; box-sizing: border-box;">
       <div style="display: inline-block; background: green; width: 50%; text-align: center; color: white;">JP</div><div style="display: inline-block; background: gray; width: 50%; text-align: center; color: #555;">EN</div>
@@ -70,7 +70,7 @@ with plenty of background on japanese-russian relations, as we pivot back into h
 
 muneo house equals acid house. the next reply minced no words of its own, calling it a shit thread. another few replies would go on to [*sage*](https://knowyourmeme.com/memes/sage) it for having nothing to do with music, a very visible signal that they would prefer that the thread expire off the board altogether. people mostly used the thread for throwaway jokes more akin to toilet graffiti, and it was likely fated to be just another forgotten relic, until one poster returned a week later to take the assignment literally with an MP3 that likely took far less time to make. overnight, the thread started to take on a new life:
 
-<details style="position: relative; overflow: hidden; width: 100%; background: #efefef">
+<details style="position: relative; overflow: hidden; width: 100%; background: #efefef; border: 5px solid #e3e3e3; box-sizing: border-box;">
   <summary style="font-size: 0; line-height: 0;">
     <div style="position: absolute; right: 10px; user-select: none; overflow: hidden; color: black; width: 100px; line-height: 32px; font-size: 18px; cursor: pointer; border: 1px solid black; border-radius: 5px; margin: 10px 0 0 10px; box-sizing: border-box;">
       <div style="display: inline-block; background: green; width: 50%; text-align: center; color: white;">JP</div><div style="display: inline-block; background: gray; width: 50%; text-align: center; color: #555;">EN</div>
@@ -120,7 +120,7 @@ with a newfound momentum, more posters began throwing in their hat to contribute
 
 with the first push coming from the interest around muneo's testimony, fanatics had already assembled enough music around the man to scrounge together a compilation album, and work began to cut it as a proper release. for some sense of how far back on the timeline we are, this first album was uploaded to winMX, japan's first real taste of P2P sharing as [it was one of the first solutions to support multi-byte character sets](https://www.weblio.jp/content/WinMX), before it would also be mirrored to now-defunct services like yahoo briefcase that offered a cool 30 MB of free storage. more users that were roped in by the excitement contributed their own takes on jacket art, some producing limited or european cover editions. judging by the praise being scattered for this new fount of content, this kuso thread had finally been polished into a wonderfully shitty shine:
 
-<details style="position: relative; overflow: hidden; width: 100%; background: #efefef">
+<details style="position: relative; overflow: hidden; width: 100%; background: #efefef; border: 5px solid #e3e3e3; box-sizing: border-box;">
   <summary style="font-size: 0; line-height: 0;">
     <div style="position: absolute; right: 10px; user-select: none; overflow: hidden; color: black; width: 100px; line-height: 32px; font-size: 18px; cursor: pointer; border: 1px solid black; border-radius: 5px; margin: 10px 0 0 10px; box-sizing: border-box;">
       <div style="display: inline-block; background: green; width: 50%; text-align: center; color: white;">JP</div><div style="display: inline-block; background: gray; width: 50%; text-align: center; color: #555;">EN</div>

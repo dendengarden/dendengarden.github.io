@@ -380,7 +380,11 @@
 
 .post-content {
   margin-bottom: var(--spacing-unit);
-  line-height: calc(var(--base-font-size) * 2.25);
+  line-height: calc(var(--base-font-size) * 2.1);
+
+  p {
+    padding: 0 calc(var(--spacing-unit) / 2.5);
+  }
 
   h2 {
     font-size: calc(var(--base-font-size) * 2);
