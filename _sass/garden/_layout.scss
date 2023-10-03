@@ -467,12 +467,12 @@ figure.post-image figcaption {
 .three-top {
   grid-template-areas:
     "image1 image1"
-    "image2 image2"
+    "image2 image3"
     "caption caption";
 }
 .three-bottom {
   grid-template-areas:
-    "image2 image2"
+    "image2 image3"
     "image1 image1"
     "caption caption";
 }
