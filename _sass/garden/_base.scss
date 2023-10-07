@@ -100,6 +100,25 @@ figcaption {
   display: table-caption; 
 }
 
+table {
+  width: 90%;
+  margin: 0 auto calc(var(--spacing-unit) / 2);
+  border-collapse: collapse;
+
+  th, td {
+    border: 1px solid black;
+  }
+
+  td {
+    padding: 5px;
+    background-color: var(--post-image-note-bg);
+  }
+
+  .highlight {
+    background: var(--post-highlight-background-color);
+  }
+}
+
 .wrapper {
   position: relative;
   width: 100vw;

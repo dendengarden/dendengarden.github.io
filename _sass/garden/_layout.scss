@@ -354,7 +354,7 @@
 }
 
 .post-appeared {
-  background: var(--post-appeared-background-color);
+  background: var(--post-highlight-background-color);
   color: var(--post-appeared-text-color);
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -375,7 +375,7 @@
   font-size: var(--base-font-size);
   font-weight: inherit;
   padding: calc(var(--spacing-unit) / 4) calc(var(--spacing-unit) / 2);
-  border: 3px solid var(--brand-accent-color-light);
+  background: var(--post-highlight-background-color);
 }
 
 .post-content {
