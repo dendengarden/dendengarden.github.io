@@ -3,6 +3,7 @@ layout: post
 title:  "Hideki Satomi's packaging and copy design"
 date:   2023-10-07 00:00:00 -0400
 category: broadcast
+banner: "/assets/img/posts/hideki-satomi-design/yotsubato9.png"
 excerpt_separator: ""
 ---
 
