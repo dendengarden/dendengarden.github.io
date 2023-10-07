@@ -140,7 +140,7 @@ while self-deprecation is still a narrow line to walk, satomi is careful to alwa
 		<tr>
 			<td class="highlight">Volume 4</td>
 			<td>「苺ましまろ」ほんのりと連載中。</td>
-			<td>Ichigo Mashimaro is being serialized in a little bit.</td>
+			<td>Ichigo Mashimaro is being serialized slightly.</td>
 		</tr>
 		<tr>
 			<td class="highlight">Volume 5</td>
