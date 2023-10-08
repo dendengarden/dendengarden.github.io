@@ -8,4 +8,10 @@ title: About
 
 <h2>About</h2>
 
-<p>Run by あれく</p>
+Hello, and thanks for visiting my site! I usually go by *あれく* or *bitto*. There aren't really any rules to what you'll find here currently, except whatever happens to interest me enough to write about it.
+
+You'll find me active on these socials:
+
+[Cohost](cohost.org/bitto/)<br />
+[Mastodon](https://kirakiratter.com/@bitbybyte)<br />
+[Bluesky](https://bsky.app/profile/bitbybyte.bsky.social)
