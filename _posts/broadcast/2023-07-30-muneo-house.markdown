@@ -66,7 +66,7 @@ with plenty of background on japanese-russian relations, as we pivot back into h
     </div>
   </div>
 </details> 
-<div style="background: #fbeddb; padding: 0.75rem; text-align: right; margin-bottom: 1.25em"><a href="http://music.5ch.net/test/read.cgi/techno/1013613060/">http://music.5ch.net/test/read.cgi/techno/1013613060</a>/</div>
+<div class="post-src-highlight"><a href="http://music.5ch.net/test/read.cgi/techno/1013613060/">http://music.5ch.net/test/read.cgi/techno/1013613060/</a></div>
 
 muneo house equals acid house. the next reply minced no words of its own, calling it a shit thread. another few replies would go on to [*sage*](https://knowyourmeme.com/memes/sage) it for having nothing to do with music, a very visible signal that they would prefer that the thread expire off the board altogether. people mostly used the thread for throwaway jokes more akin to toilet graffiti, and it was likely fated to be just another forgotten relic, until one poster returned a week later to take the assignment literally with an MP3 that likely took far less time to make. overnight, the thread started to take on a new life:
 
@@ -110,7 +110,7 @@ muneo house equals acid house. the next reply minced no words of its own, callin
     </div>
   </div>
 </details> 
-<div style="background: #fbeddb; padding: 0.75rem; text-align: right; margin-bottom: 1.25em"><a href="http://music.5ch.net/test/read.cgi/techno/1013613060/">http://music.5ch.net/test/read.cgi/techno/1013613060</a>/</div>
+<div class="post-src-highlight"><a href="http://music.5ch.net/test/read.cgi/techno/1013613060/">http://music.5ch.net/test/read.cgi/techno/1013613060/</a></div>
 
 {% include audio.html title="01.Intro (take2)" src="https://www.muneohouse.net/tmh/01-01.mp3" external=true %}
 
@@ -152,7 +152,7 @@ with the first push coming from the interest around muneo's testimony, fanatics 
     </div>
   </div>
 </details> 
-<div class="post-src-highlight"><a href="http://music.5ch.net/test/read.cgi/techno/1013613060/">http://music.5ch.net/test/read.cgi/techno/1013613060</a>/</div>
+<div class="post-src-highlight"><a href="http://music.5ch.net/test/read.cgi/techno/1013613060/">http://music.5ch.net/test/read.cgi/techno/1013613060/</a></div>
 
 {% include audio.html title="07.dj battle" src="https://www.muneohouse.net/tmh/01-07.mp3" external=true %}
 
@@ -197,7 +197,7 @@ by the 10th album's release, still only two months out from the beginning frenzy
     </div>
   </div>
 </details> 
-<div style="background: #fbeddb; padding: 0.75rem; text-align: right; margin-bottom: 1.25em"><a href="http://music.5ch.net/test/read.cgi/techno/1013613060/">http://music.5ch.net/test/read.cgi/techno/1013613060</a>/</div>
+<div class="post-src-highlight"><a href="http://music.5ch.net/test/read.cgi/techno/1013613060/">http://music.5ch.net/test/read.cgi/techno/1013613060/</a></div>
 
 by the latter half of 2002, the boom had died down dramatically, and muneo house's regular releases abruptly ended. while a year is now impressive longevity for an online fad, personal sites and file shares that sprung up overnight to support the movement evaporated just as quickly, an impression you might not get from the impressive endurance today of small-scale sites that can be run for close to zero cost. attention and buzz around muneo house dissipated, and the /techno/ board considered it to have reached a natural resting point after MUNERE'02 was held at [shinjuku MARZ](http://www.marz.jp/) in late july, the fourth event following [muneo heaven](https://underdefinition.hatenadiary.jp/entry/20020601/MuneoHouse_Event_MuneoHeaven) in early june and [muneock festival'02](https://underdefinition.hatenadiary.jp/entry/20020504/MuneoHouse_Event_MuneockFestival02) in may. between these last two events, muneo would be arrested for a separate incident entirely unrelated to his house troubles after he [accepted bribes from two hokkaido lumber firms that wanted to curry favor on logging contracts](https://web.archive.org/web/20110607033250/http://search.japantimes.co.jp/cgi-bin/nn20020615a1.html). while impressions from MUNERE attendees were favorable, there is an interestingly common criticism peppered across many of the surviving event reports on it: [there was too much muneo house music](https://underdefinition.hatenadiary.jp/entry/20020729/p8). the reason for the event, its impetus for existing at all, had tired out even the most devoted wotas that had taken the initiative to attend it.
 
