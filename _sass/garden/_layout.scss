@@ -46,7 +46,7 @@
   }
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 800px) {
   .site-header {
     margin-top: 0;
   }
@@ -127,7 +127,7 @@
 
 .home-radio-container {
   margin: 0 auto var(--spacing-unit);
-  border: 15px groove rgb(209, 143, 0);
+  border: 15px groove rgb(104, 82, 34);
   border-radius: 3px;
   box-shadow: 0 10px 5px var(--shadow-color);
   width: 80vw;
