@@ -2,7 +2,6 @@
 // Header + nav + common
 .site-header {
   text-align: center;
-  margin-top: var(--spacing-unit);
 }
 
 .site-header .wrapper {
@@ -44,9 +43,6 @@
 }
 
 @media screen and (max-width: 800px) {
-  .site-header {
-    margin-top: 0;
-  }
   .site-title {
     font-size: var(--header-font-size);
     a {
