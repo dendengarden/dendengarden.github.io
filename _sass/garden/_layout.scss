@@ -262,6 +262,10 @@
   font-size: calc(var(--base-font-size) * 2);
   letter-spacing: 1px;
   font-weight: bold;
+  ::selection {
+    background: var(--white);
+    color: var(--brand-color);
+  }
 }
 
 .category-banner-icon {
