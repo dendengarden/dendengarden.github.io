@@ -1,0 +1,8 @@
+<div class="post-video-embed" >
+    <video controls width="{{include.width}}">
+        <source src="{{ include.url }}" />
+    </video>
+</div>
+{% if include.src %}
+<div class="post-src-highlight"><a href="{{include.src}}">{{include.src}}</a></div>
+{% endif %}

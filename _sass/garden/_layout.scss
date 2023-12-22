@@ -533,11 +533,18 @@ figure.post-image figcaption {
   display: initial;
 }
 
-.post-video {
+.post-video-embed {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  video {
+    max-width: 100%;
+  }
+}
+
+.post-video-nnd {
   max-height: 800px;
   margin: 0 auto calc(var(--spacing-unit) / 2);
-}
-.post-video-nnd {
   left: 0; 
   width: 100%; 
   height: 0; 
@@ -545,8 +552,8 @@ figure.post-image figcaption {
   padding-bottom: 56.25%;
 }
 
-.reversefootnote {
- font-family: monospace; 
+.post-tweet {
+  border-left: 5px solid var(--post-tweet-blue);
 }
 
 .post-nav-link {

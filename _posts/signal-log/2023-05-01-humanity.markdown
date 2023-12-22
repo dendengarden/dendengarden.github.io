@@ -3,12 +3,12 @@ layout: post
 title:  "HUMANITY"
 date:   2023-05-01 00:00:00 -0400
 category: signal-log
-banner: "/assets/img/posts/humanity.jpg"
+banner: "/assets/img/posts/humanity/humanity.jpg"
 src: [Cohost, https://cohost.org/bitto/post/1426084-humanity]
 excerpt_separator: ""
 ---
 
-{% include image.html url="/assets/img/posts/humanity.jpg" alt="Screenshot of HUMANITY" %}
+{% include image.html url="/assets/img/posts/humanity/humanity.jpg" alt="Screenshot of HUMANITY" %}
 
 [HUMANITY](https://humanity.game/) will be enhance's first fully original game project, which might be hard to believe as they've been around for a while refining mizuguchi's portfolio of synesthesia showpieces. have you played chuchu rocket, lemmings, intelligent qube, rez, jumping flash, or really any number of PS1-era games at the turn of the millenium? you'll find just about all of that DNA here but with controls that wisely betray the frustrated experience you probably expect to have with an action puzzler, based on my time with the demo. [the launch trailer](https://www.youtube.com/watch?v=iM1yO7bcqqk) knows where its roots are grounded too.
 
@@ -16,10 +16,10 @@ enhance, more than just about any modern publisher I think about today, continue
 
 commiting to "never" as a professional usually does come back to bite you, but it's not a surprising thing to hear when many design professionals may work only in specific fixed mediums for their entire career. it's clear from interviews with nakamura as he goes on the press circuit that he's still finding game development to be more of a challenge than he feared, but mizuguchi practically begged the guy to work with him on a game seeing only a unity tech demo and it's really not hard to understand why. having nakamura working on a game is like having an architect, a UI designer, and a product engineer rolled into one, able to be attentive to the minutae down to every model and menu. that sort of experienced knowledge seems rare to come out fully realized with a vision on large development teams, but hearing and seeing more of the design philosophy in HUMANITY it's started to look like nakamura stumbled into the best coupling of a small team that lets him flex his design knowledge while also having experienced developers like mizuguchi on hand that understand "game sense" enough to keep it on rails. nowhere else are you really going to find someone that can articulate [andou tadao](https://en.wikipedia.org/wiki/Tadao_Ando) as a main influence for the design language and aesthetic of their game while also being able to see it with such perfect clarity: the concrete, the glass panels, the imposing black spheres, the treatment of light, the greenery patches that introduce some color to the brutalism.
 
-{% include image-grid-start.html grid-layout="three-left" caption=True %}
-{% include image-grid-area.html index=1 url="/assets/img/posts/nyc-greenery.jpg" alt="152 Elizabeth (New York, NY)" %}
-{% include image-grid-area.html index=2 url="/assets/img/posts/ft-worth.jpg" alt="Modern Art Museum of Fort Worth (Fort Worth, TX)" %}
-{% include image-grid-area.html index=3 url="/assets/img/posts/langen.jpg" alt="Langen Foundation (Neuss, Germany)" %}
+{% include image-grid-start.html grid-layout="three-left" caption=true %}
+{% include image-grid-area.html index=1 url="/assets/img/posts/humanity/nyc-greenery.jpg" alt="152 Elizabeth (New York, NY)" %}
+{% include image-grid-area.html index=2 url="/assets/img/posts/humanity/ft-worth.jpg" alt="Modern Art Museum of Fort Worth (Fort Worth, TX)" %}
+{% include image-grid-area.html index=3 url="/assets/img/posts/humanity/langen.jpg" alt="Langen Foundation (Neuss, Germany)" %}
 {% include image-grid-end.html caption="Left: 152 Elizabeth (New York, NY). Top right: Modern Art Museum of Fort Worth (Fort Worth, TX). Bottom right: Langen Foundation (Neuss, Germany)." %}
 
 enhance's honest strength seems to be in their ability to headhunt people that are masters of their discipline and involve them deep into their projects. the eerie, almost angelic music in HUMANITY is from [jemapur](https://www.last.fm/music/Jemapur) twisting voice samples digitally, which incidentally shares concept with the music peppering [デザインあ](https://www.nhk.or.jp/design-ah/) that nakamura supervises. it's about as familiar an idea as recording a sample on your casio keyboard and playing melodies with your own voice, but to hear it executed in a way that avoids being campy and can cite intelligent influence like the engine sounds in [miyazaki's the wind rises](https://en.wikipedia.org/wiki/The_Wind_Rises) is a feat of technical and knowledgable care. for tetris effect, they brought on tomohiro "greentea" tatejima to supervise their multiplayer expansion and tweak the game's overall balance. greentea ran [the tetris club out of the university of tokyo](https://sites.google.com/view/uttetris/index), competes at a high level in NES tetris, and developed his own clone game, just to name some of his most directly relevant accomplishments. if you know anything about what constitutes modern tetris, you'll know just how rare it is to see the games get made by people that actually understand what makes tetris work. molding expert enthusiasm, and knowing where to find it, from different fields to make all the cogs turn together in a large project is harder than it seems. 

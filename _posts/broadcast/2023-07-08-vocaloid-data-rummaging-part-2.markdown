@@ -3,12 +3,12 @@ layout: post
 title:  "vocaloid data rummaging, part 2/?: a thousand voicebanks"
 date:   2023-07-08 08:21:00 -0400
 category: broadcast
-banner: "/assets/img/posts/vocaloid-part2-vocalists.png"
+banner: "/assets/img/posts/vocaloid-data-rummaging-part-2/vocaloid-part2-vocalists.png"
 src: [Cohost, https://cohost.org/bitto/post/1798295-vocaloid-data-rummag]
 excerpt_separator: ""
 ---
 
-{% include image.html url="/assets/img/posts/vocaloid-part2-vocalists.png" alt="Vocalists (nicovideo.jp only, 2023-05-03)" %}
+{% include image.html url="/assets/img/posts/vocaloid-data-rummaging-part-2/vocaloid-part2-vocalists.png" alt="Vocalists (nicovideo.jp only, 2023-05-03)" %}
 
 *this is part 2 in a series of posts exploring vocaloid song data aggregated from vocaDB and niconico. you can read part 1 [here](/2023/05/10/vocaloid-data-rummaging-part-1).*
 
@@ -32,7 +32,7 @@ leading into 2016, GUMI's usage started declining without any serious replacemen
 
 ### Branching out revives a flagging scene
 
-{% include image.html url="/assets/img/posts/vocaloid-part2-vocalists-pie.png" alt="Vocalists (nicovideo.jp only, 2023-05-03)" %}
+{% include image.html url="/assets/img/posts/vocaloid-data-rummaging-part-2/vocaloid-part2-vocalists-pie.png" alt="Vocalists (nicovideo.jp only, 2023-05-03)" %}
 
 many producers would never stop exploring other voicebanks. during 2016, our grouping of "other" vocalists not represented by the listed heavy hitters managed a quarter of total usage — the only point at which a category besides miku was able achieve this level of use. while "other" is a catch-all ranging from someone's artisan UTAU to a commercial voicebank that may as well have never been sold, this is the clearest picture yet that producers were cooling off of the crypton voicebanks that had effectively defined the scene, while synth otaku were still exploring their options. since the overall number of songs being published was declining, it's notable that the "other" grouping, along with miku, were the only slices to float proportional growth during this time. while again it's more appropriate to attribute the majority of that to enduring use of UTAU as a free and open alternative, the full timeline makes clear that crypton, and vocaloid by extension, was succeeding off of inertia more than anything else.
 

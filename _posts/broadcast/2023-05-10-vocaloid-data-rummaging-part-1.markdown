@@ -3,12 +3,12 @@ layout: post
 title:  "vocaloid data rummaging, part 1/?: the disappearance of hatsune miku's links"
 date:   2023-05-10 21:53:00 -0400
 category: broadcast
-banner: "/assets/img/posts/vocaloid-part1-year.png"
+banner: "/assets/img/posts/vocaloid-data-rummaging-part-1/vocaloid-part1-year.png"
 src: [Cohost, https://cohost.org/bitto/post/1455327-vocaloid-data-rummag]
 excerpt_separator: ""
 ---
 
-{% include image.html url="/assets/img/posts/vocaloid-part1-year.png" alt="VocaDB PV Health (nicovideo.jp only, 2023-05-03)" %}
+{% include image.html url="/assets/img/posts/vocaloid-data-rummaging-part-1/vocaloid-part1-year.png" alt="VocaDB PV Health (nicovideo.jp only, 2023-05-03)" %}
 
 [niconico](https://www.nicovideo.jp/) is a site I love dearly, but is clearly one with a looming expiration date. run by dwango and backed by kadokawa, it's so far had almost equal longevity to youtube — a rare boast when youtube ate pretty much every other free streaming video site that was its contemporary for lunch — but has also been bleeding user retention and subscriptions for the better part of a decade[^1]. expectations change over 16 years, and people seem to be losing their patience for buffering, low quality viewing hours, and arbitrary favorites limits just for the chance to see scrolling danmaku comments. for now, there's still enough money to be made in it to keep the lights on, and it still operates as an oasis for specific kinds of niche content for a lot of subcultures that doesn't get housed anywhere else absorbed nearly as deeply into the site's DNA. MADs exist on youtube today, but as far as their cult status online is concerned, they really gained prominence for the first time on nico.
 
@@ -20,7 +20,7 @@ nico video IDs are for the most part all monotonic, meaning they're stupidly eas
 
 ### Covers initially set the stage
 
-{% include image.html url="/assets/img/posts/vocaloid-part1-song-type.png" alt="VocaDB Song Type (nicovideo.jp only, 2023-05-03)" %}
+{% include image.html url="/assets/img/posts/vocaloid-data-rummaging-part-1/vocaloid-part1-song-type.png" alt="VocaDB Song Type (nicovideo.jp only, 2023-05-03)" %}
 
 hatsune miku's release in 2007 is effectively the epoch of vocal synth fandom, and that's most obvious when we take a look at all songs cataloged to vocaDB in aggregate. when miku first released, people weren't really sure if they should treat vocaloid as a toy or as an instrument, and so a lot of the initial energy around her release was dedicated to seeing what was possible with cover songs. anison covers were a natural fit for a nico audience, so it's expected that things like [echo's cover of sousei no aquarion](https://www.nicovideo.jp/watch/sm965862) and [tokiwa's cover of nagato's image song](https://www.nicovideo.jp/watch/sm969310) were uploaded to good reception quite literally a day after miku's release.
 
@@ -31,7 +31,7 @@ there are further oddities around this time, like [a flawless cover of 4'33 by j
 the prevalence of covers in this initial frenzy is part of what led dwango to ink a formal partnership with JASRAC, japan's copyright boogeyman, just a few weeks later. there's actually a good deal more of copyright quackery with nico consistent with this era of online video too, like dwango trying to sell ringtones of miku miku ni shite ageru and [attributing "hatsune miku" as the literal artist in a JASRAC filing](https://www.itmedia.co.jp/news/articles/0712/19/news126.html). that move was met with tremendous backlash that [prompted apologies from all parties involved](https://www.j-cast.com/2007/12/20014836.html), including crypton for not providing more clarity on copyright pertaining to works created with miku, and some producers of the era characterize this as a sort of catalyst in the trend towards original songs supplanting covers, with creators freely collaborating on composition, arrangement, lyrics, and performances outside of a traditional copyright structure controlled by JASRAC[^3].
 
 ###  Where did all the covers go?
-{% include image.html url="/assets/img/posts/vocaloid-part1-deleted.png" alt="VocaDB Deleted PVs (nicovideo.jp only, 2023-05-03)" %}
+{% include image.html url="/assets/img/posts/vocaloid-data-rummaging-part-1/vocaloid-part1-deleted.png" alt="VocaDB Deleted PVs (nicovideo.jp only, 2023-05-03)" %}
 
 no matter any copyright deals made yesterday, we stare down the harsh reality of cover songs when we look at video PVs added to vocaDB that no longer lead anywhere today. while covers did make up a greater proportion of songs uploaded during 2007 than at any other time, that year emerges as a relative champion for link rot. keep in mind that vocaDB only began in 2011, meaning all of these links were only ever added after that point. these cover links proved decently stable at least for a few years, but are now internet cobwebs, long after formal agreements and arrangements were made with JASRAC that initially shielded them.
 

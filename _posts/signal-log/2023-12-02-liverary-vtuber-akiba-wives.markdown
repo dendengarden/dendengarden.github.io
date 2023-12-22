@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "bye-bye, all of my akiba wives"
+date:   2023-12-02 00:00:00 -0400
+category: signal-log
+banner: "/assets/img/posts/liverary-vtuber-akiba-wives/uni.png"
+src: [Cohost, https://cohost.org/bitto/post/3722805-bye-bye-all-of-my-a]
+excerpt_separator: ""
+---
+
+{% include image-grid-start.html grid-layout="three-top" %}
+{% include image-grid-area.html index=1 url="/assets/img/posts/liverary-vtuber-akiba-wives/himari.png" alt="Mochizuki Himari says 'I have been playing eroge everyday as if I were in an eroge bootcamp'" %}
+{% include image-grid-area.html index=2 url="/assets/img/posts/liverary-vtuber-akiba-wives/uni.png" alt="Akatsuki Uni explains the Vtuber stereotype" %}
+{% include image-grid-area.html index=3 url="/assets/img/posts/liverary-vtuber-akiba-wives/tsukuru.png" alt="Zutsuki Tsukuru demos a Game Boy Camera webcam mod" %}
+{% include image-grid-end.html %}
+
+[mochizuki himari officially called it quits](https://twitter.com/Liverary_JP/status/1730183642352357540) after being on hiatus for a while, which means unicreate has now pretty much dissolved as a vtuber agency. everyone else that was under the liverary brand [already graduated ahead of her](https://twitter.com/Liverary_JP/status/1727310973231341633). graduations are the rhythmic sunsets of the vtuber world, and happen pretty much as often as them against a backdrop of overworked talent and incompetent management. there's not a lot to go off of here to suggest what may have happened, but things can't look too good when the split has to be communicated through laywers. reading into agency statements is fraught with speculation when the talents are usually contractually forced into silence.
+
+unicreate was a loose collective of subculture weirdos that's unlikely to be repeated elsewhere, which is probably why this stings so bad. himari, the eroge sommelier, was initially an indie before joining up with uni, the eroge historian. the voiceroid to her yukkuri, to put it one way. they were fountains for explainer videos and exhibitions in that same vein, but also a strangely compelling variety of weird experiments and posed hypotheticals. himari [talked with goro about one of the first commercially produced cosplay JAV releases](https://www.youtube.com/watch?v=RSses0p8yuQ), pondered [the legal feasability of establishing a real nukitashi island with diet member minoru ogino](https://www.youtube.com/watch?v=WKu4d8ecJQk), and [spent millions of yen to test how youtube advertising favored her cover MVs](https://www.youtube.com/watch?v=QszYxjf12d0). she taught us [how to play eroge with a foot pedal](https://www.youtube.com/watch?v=bb_J5_1BqrQ), knowledge that could only be discovered as a sofmap rep. this doesn't even begin to scratch the surface for himari, let alone the others. they're content creators, in the least pejorative sense of that label, in a field that has otherwise aligned to the idol entertainment industry and become more live oriented over time. 
+
+tsukuru was a more recent addition to the crew, plucked directly from himari's friends after [unicreate's open auditions went disasterously](https://www.youtube.com/watch?v=5Nh4UDXZKCM). she played a lot of burger burger, the premiere hamburger simulation on the playstation, and watched a lot of donbrothers. more to the point, she salvaged junk from akiba shops to make a [kebab machine](https://www.youtube.com/watch?v=hSUBEQdq0qU), a [beer chiller](https://www.youtube.com/watch?v=jS_bTl0BEj4), a [hologram box](https://www.youtube.com/watch?v=kvLHQLmO4Oo), and [the world's best AC6 controller](https://www.youtube.com/watch?v=oUNbXe9wf_M). of course she would produce [a game market after report of broadcast quality](https://www.youtube.com/watch?v=tQUtgHv8dAk). hopelessly niche, yes, but you probably don't need me to tell you that's where the charm lies. to think a brief window of opportunity opened long enough for her to get bankrolled for those hobbies is a cosmic blessing. she'd do it even if we weren't watching.
+
+explainer videos are tremendously valuable if you have even a rudimentary grasp of japanese because, as I often reiterate, so much fan lore is either locked to an oral history or has never been committed to one at all. that was definitely always the unicreate special sauce, but it never felt like a box that they limited themselves to. still, it's a facet rarely seen from other corporate outfits, especially as one that would devote their full body tracking tech to it wholeheartedly. himari's singing pipes can stand without it, and so she also [crowdfunded an image album](https://camp-fire.jp/projects/view/594837) for no real reason other than to commission songs from some of her longtime eroge heroes like [manyo](https://www.youtube.com/watch?v=NLKeUccLDus) and [sapporo momoko](https://www.youtube.com/watch?v=vbE2UuqCOC4), a fantasy dream team turned real. she got halko to write [new akibapop](https://www.youtube.com/watch?v=JcFKfbFWGqc). that project now sits in limbo, a reminder of a dream that has now had holes punched through it like a rude awakening. we have no choice now but to fall through it, hopefully also showered by himarin bucks to the tune of susumu hirasawa, and perhaps also ferried on uni's back if we're lucky. we'll see you [on the other side](https://www.youtube.com/@NICHIJOU-nesiology).
+
+{% include youtube.html url="https://www.youtube.com/watch?v=CrJgqCvdY8I" aspect-ratio="16 / 9" %}
+
+{% include youtube.html url="https://www.youtube.com/watch?v=EySZQa8e9oo" aspect-ratio="16 / 9" %}
