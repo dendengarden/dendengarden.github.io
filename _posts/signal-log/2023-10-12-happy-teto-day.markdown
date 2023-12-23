@@ -3,8 +3,10 @@ layout: post
 title:  "happy teto day"
 date:   2023-10-12 00:00:00 -0400
 category: signal-log
+banner: "/assets/img/posts/happy-teto-day/teto.jpg"
 src: [Cohost, https://cohost.org/bitto/post/3153707-happy-teto-day]
 excerpt_separator: ""
+tags: []
 ---
 
 aactually it was a few days ago (october 10th) but I'm going to refrain from making any more date jokes at teto's expense

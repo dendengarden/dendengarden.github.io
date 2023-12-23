@@ -6,6 +6,7 @@ category: signal-log
 banner: "/assets/img/posts/volks-dollfie/dollfie-farewell.png"
 src: [Cohost, https://cohost.org/bitto/post/2615561-if-you-love-it-enoug]
 excerpt_separator: ""
+tags: []
 ---
 
 {% include image.html url="/assets/img/posts/volks-dollfie/dollfie-farewell.png" alt="Tenshi-no-Sato Studio Super Dollfie Farewell Services" %}

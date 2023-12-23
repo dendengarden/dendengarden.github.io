@@ -6,6 +6,7 @@ category: broadcast
 banner: "/assets/img/posts/raw-leeks/magimirai-leeks-rule.png"
 src: [Cohost, https://cohost.org/bitto/post/1140287-please-refrain-from]
 excerpt_separator: ""
+tags: []
 ---
 
 {% include image.html url="/assets/img/posts/raw-leeks/magimirai-leeks-rule.png" alt="A highlighted rule stating to &quot;Please refrain from bringing raw leeks to the venue.&quot;" caption="Participation rules for Magical Mirai 2023" %}

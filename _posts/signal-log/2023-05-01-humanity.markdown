@@ -6,6 +6,7 @@ category: signal-log
 banner: "/assets/img/posts/humanity/humanity.jpg"
 src: [Cohost, https://cohost.org/bitto/post/1426084-humanity]
 excerpt_separator: ""
+tags: []
 ---
 
 {% include image.html url="/assets/img/posts/humanity/humanity.jpg" alt="Screenshot of HUMANITY" %}

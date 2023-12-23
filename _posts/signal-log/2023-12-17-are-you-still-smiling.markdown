@@ -6,6 +6,7 @@ category: signal-log
 banner: "/assets/img/posts/are-you-still-smiling/nico-17th.png"
 src: [Cohost, https://cohost.org/bitto/post/3890082-are-you-still-smilin]
 excerpt_separator: ""
+tag: []
 ---
 
 {% include image.html url="/assets/img/posts/are-you-still-smiling/nico-17th.png" alt="ニコニコ 17th Anniversary" %}

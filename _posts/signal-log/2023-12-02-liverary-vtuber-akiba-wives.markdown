@@ -6,6 +6,7 @@ category: signal-log
 banner: "/assets/img/posts/liverary-vtuber-akiba-wives/uni.png"
 src: [Cohost, https://cohost.org/bitto/post/3722805-bye-bye-all-of-my-a]
 excerpt_separator: ""
+tags: []
 ---
 
 {% include image-grid-start.html grid-layout="three-top" %}

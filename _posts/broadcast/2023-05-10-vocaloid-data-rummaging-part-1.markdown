@@ -6,6 +6,7 @@ category: broadcast
 banner: "/assets/img/posts/vocaloid-data-rummaging-part-1/vocaloid-part1-year.png"
 src: [Cohost, https://cohost.org/bitto/post/1455327-vocaloid-data-rummag]
 excerpt_separator: ""
+tags: []
 ---
 
 {% include image.html url="/assets/img/posts/vocaloid-data-rummaging-part-1/vocaloid-part1-year.png" alt="VocaDB PV Health (nicovideo.jp only, 2023-05-03)" %}

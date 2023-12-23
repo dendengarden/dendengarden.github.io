@@ -6,6 +6,7 @@ category: broadcast
 banner: "/assets/img/posts/vocaloid-data-rummaging-part-2/vocaloid-part2-vocalists.png"
 src: [Cohost, https://cohost.org/bitto/post/1798295-vocaloid-data-rummag]
 excerpt_separator: ""
+tags: []
 ---
 
 {% include image.html url="/assets/img/posts/vocaloid-data-rummaging-part-2/vocaloid-part2-vocalists.png" alt="Vocalists (nicovideo.jp only, 2023-05-03)" %}

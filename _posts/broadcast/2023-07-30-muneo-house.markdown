@@ -6,6 +6,7 @@ category: broadcast
 banner: "/assets/img/posts/muneo-house/muneo-house-party-lead.jpg"
 src: [Cohost, https://cohost.org/bitto/post/2162563-political-bribes-a]
 excerpt_separator: ""
+tags: []
 ---
 
 {% include image.html url="/assets/img/posts/muneo-house/muneo-house-party-lead.jpg" alt="Muneo House Party collage" %}

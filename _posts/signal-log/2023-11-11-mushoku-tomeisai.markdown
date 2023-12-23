@@ -3,8 +3,10 @@ layout: post
 title:  "sunrise, sunset"
 date:   2023-11-11 00:00:00 -0400
 category: signal-log
+banner: "/assets/img/posts/mushoku-tomeisai/mushoku.png"
 src: [Cohost, https://cohost.org/bitto/post/3487799-sunrise-sunset]
 excerpt_separator: ""
+tags: []
 ---
 
 {% include image.html url="/assets/img/posts/mushoku-tomeisai/mushoku.png" alt="Promotional poster for Mushoku Tomeisai" caption="Mushoku Tomeisai II (無色透名祭Ⅱ)" %}

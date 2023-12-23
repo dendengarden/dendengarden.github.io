@@ -6,6 +6,7 @@ category: signal-log
 banner: "/assets/img/posts/digital-gardens/garden.png"
 src: [Cohost, https://cohost.org/bitto/post/2043499-sometimes-the-most]
 excerpt_separator: ""
+tags: []
 ---
 
 {% include image.html url="/assets/img/posts/digital-gardens/garden.png" alt="An imageboard split into three columns of [conversation], [pictures], and [meta discussion] with scanned postcards. Two links at the top are labeled [post] and [compost]." caption="Screenshot of postbox.garden (Cambridge Cyber Gardening Club)" %}

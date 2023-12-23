@@ -3,8 +3,10 @@ layout: post
 title:  "japan talks about costco the way america talks about buc-ees"
 date:   2023-12-07 00:00:00 -0400
 category: signal-log
+banner: "/assets/img/posts/japan-costco-lantis-matsuri/luna1.png"
 src: [Cohost, https://cohost.org/bitto/post/3786054-japan-talks-about-co]
 excerpt_separator: ""
+tags: []
 ---
 
 {% include image-grid-start.html grid-layout="two" %}

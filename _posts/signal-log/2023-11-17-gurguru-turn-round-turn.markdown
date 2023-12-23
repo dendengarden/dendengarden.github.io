@@ -6,6 +6,7 @@ category: signal-log
 banner: "/assets/img/posts/guruguru-turn-round-turn/guruguru.jpg"
 src: [Cohost, https://cohost.org/bitto/post/3542494-turn-round-turn]
 excerpt_separator: ""
+tags: []
 ---
 
 {% include video.html src="https://www.sakugabooru.com/post/show/8427" url="/assets/img/posts/guruguru-turn-round-turn/nichijou.webm" %}

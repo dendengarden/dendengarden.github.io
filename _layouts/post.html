@@ -10,10 +10,11 @@ layout: default
 
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
-      <span class="post-meta-item post-category">{{ category-title }}</span><time class="post-meta-item dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      <span class="post-category">{{ category-title }}</span><time class="post-meta-item dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
         {{ page.date | date: date_format }}
-      </time>{%- if page.src -%} {% include appeared.html src=page.src %} {%- endif -%}<a title="Permalink" class="post-meta-item post-permalink" href="{{ page.url | relative_url }}"></a>
+      </time>{%- for tag in page.tags -%}{% assign tag-title = site.data.tags[tag].title %}<span class="post-meta-tag {{tag}}">{{tag-title}}</span>{%- endfor -%}
+      {%- if page.src -%} {% include appeared.html src=page.src %} {%- endif -%}<a title="Permalink" class="post-meta-item post-permalink" href="{{ page.url | relative_url }}"></a>
     </p>
   </header>
 
@@ -21,6 +22,5 @@ layout: default
     {{ content }}
   </div>
 
-  <!-- <applause-button color="var(--brand-color)"></applause-button> -->
   <a class="post-nav-link" href="/">Back to index</a>
 </article>

@@ -3,8 +3,10 @@ layout: post
 title:  "VOICEROID food kitchen"
 date:   2023-08-14 00:00:00 -0400
 category: signal-log
+banner: "/assets/img/posts/voiceroid-food-kitchen/voiceroid.jpg"
 src: [Cohost, https://cohost.org/bitto/post/2482405-grilled-corn-pilled]
 excerpt_separator: ""
+tags: []
 ---
 
 {% include nnd.html url="https://www.nicovideo.jp/watch/sm42555181" %}

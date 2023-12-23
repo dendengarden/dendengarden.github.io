@@ -6,6 +6,7 @@ category: broadcast
 banner: "/assets/img/posts/toshio-iwai-interactive-art/iwai.png"
 src: [Cohost, https://cohost.org/bitto/post/1568242-toshio-iwai-s-intera]
 excerpt_separator: ""
+tags: []
 ---
 
 {% include image.html url="/assets/img/posts/toshio-iwai-interactive-art/iwai.png" alt="Various examples of Toshio Iwai's art, performances, and exhibits" caption="Top: Toshio Iwai performs live using the Tenori-on. Left: A screenshot of the Luminaria mode from Electroplankton. Right: A woman playing &quot;Piano — As Image Media&quot;, an installation developed by Toshio Iwai." %}
