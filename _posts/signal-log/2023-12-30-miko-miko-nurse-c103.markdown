@@ -4,7 +4,7 @@ title:  "miko miko nurse is NOT dead"
 date:   2023-12-30 00:00:00 -0400
 category: signal-log
 banner: "/assets/img/posts/miko-miko-nurse-c103/promo.jpg"
-src: [Cohost, https://cohost.org/bitto/post/3387590-otaku-sweat-tears]
+src: [Cohost, https://cohost.org/bitto/post/4021536-miko-miko-nurse-is-n]
 excerpt_separator: ""
 tag: []
 ---
