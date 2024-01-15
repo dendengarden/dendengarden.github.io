@@ -31,4 +31,4 @@ there's not necessarily a concluding point here, or I guess anything to call thi
 
 ---
 
-[^1]: having 50 or more KA credited on one episode would normally be something I'd qualify as a mark of outsourcing shame, but [every episode of D4DJ is this way](https://staging.cohostcdn.org/attachment/c4f4aba7-f0ba-4562-8443-8e7f96facace/%5BSubsPlease%5D%20D4DJ%20First%20Mix%20-%2003%20(1080p)%20%5B0DBB7E8D%5D.mkv_snapshot_00_21.52.104_01.png). 3DCG being possible to do right, either on budgets of money or time, is not something that I think has been entirely digested by audiences acclimated to seeing it used primarily for long shots of vehicles and mobs
+[^1]: having 50 or more KA credited on one episode would normally be something I'd qualify as a mark of outsourcing shame, but [every episode of D4DJ is this way](/assets/img/posts/guruguru-turn-round-turn/d4dj.png). 3DCG being possible to do right, either on budgets of money or time, is not something that I think has been entirely digested by audiences acclimated to seeing it used primarily for long shots of vehicles and mobs
