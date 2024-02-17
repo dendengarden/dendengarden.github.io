@@ -13,5 +13,4 @@ Hello, and thanks for visiting my site! I usually go by *あれく* or *bitto*. 
 You'll find me active on these socials:
 
 [Cohost](https://cohost.org/bitto/)<br />
-[Mastodon](https://kirakiratter.com/@bitbybyte)<br />
-[Bluesky](https://bsky.app/profile/bitbybyte.bsky.social)
+[Bluesky](https://bsky.app/profile/rocoro.co)
